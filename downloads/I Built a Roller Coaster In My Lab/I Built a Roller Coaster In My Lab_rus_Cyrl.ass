@@ -1,0 +1,506 @@
+[Script Info]
+ScriptType: v4.00+
+
+[V4+ Styles]
+
+[Events]
+Dialogue: 0,0:00:00.00,0:00:03.56,Default,,0,0,0,,This is the most epic birthday party ever!
+Dialogue: 0,0:00:03.56,0:00:06.60,Default,,0,0,0,,It's got a jet power tie-to-swing, a custom-built roller coaster,
+Dialogue: 0,0:00:06.60,0:00:09.27,Default,,0,0,0,,and an indoor sledding hill with axle-slap!
+Dialogue: 0,0:00:09.27,0:00:10.56,Default,,0,0,0,,Oh!
+Dialogue: 0,0:00:10.56,0:00:13.96,Default,,0,0,0,,And I said all this up, surprised the world's most deserving kids.
+Dialogue: 0,0:00:13.96,0:00:15.72,Default,,0,0,0,,Safety is for losers!
+Dialogue: 0,0:00:15.72,0:00:16.96,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:00:16.96,0:00:19.76,Default,,0,0,0,,I'm importantly three months ago, one of this existed,
+Dialogue: 0,0:00:19.76,0:00:21.76,Default,,0,0,0,,because that's when I reached out to a friend of mine
+Dialogue: 0,0:00:21.76,0:00:25.64,Default,,0,0,0,,who many considered to be the greatest engineer this world's ever known.
+Dialogue: 0,0:00:25.64,0:00:26.80,Default,,0,0,0,,Oh, hey, Mark!
+Dialogue: 0,0:00:26.87,0:00:27.72,Default,,0,0,0,,Phidias!
+Dialogue: 0,0:00:27.72,0:00:30.24,Default,,0,0,0,,I'm planning on throwing the world's greatest birthday party
+Dialogue: 0,0:00:30.24,0:00:31.35,Default,,0,0,0,,for this kid named Ethan.
+Dialogue: 0,0:00:31.35,0:00:32.39,Default,,0,0,0,,I can explain later.
+Dialogue: 0,0:00:32.39,0:00:35.15,Default,,0,0,0,,For now, I need you know what you've got in the idea.
+Dialogue: 0,0:00:35.15,0:00:37.39,Default,,0,0,0,,Oh, that's a great question, Mark.
+Dialogue: 0,0:00:37.39,0:00:41.48,Default,,0,0,0,,One time, Furb and I made the world's first rocket-powered tire-swing,
+Dialogue: 0,0:00:41.48,0:00:44.20,Default,,0,0,0,,you'll just need a tire, you're standard-elemon parts,
+Dialogue: 0,0:00:44.20,0:00:46.20,Default,,0,0,0,,don't forget your high-powered rockets.
+Dialogue: 0,0:00:46.20,0:00:49.56,Default,,0,0,0,,Oh, and as you can see, as long as you don't remove this screw,
+Dialogue: 0,0:00:49.56,0:00:50.24,Default,,0,0,0,,you'll be fine.
+Dialogue: 0,0:00:50.24,0:00:53.60,Default,,0,0,0,,You do realize that brings like seven laws of physics, right?
+Dialogue: 0,0:00:53.60,0:00:55.79,Default,,0,0,0,,Well, we're working with cartoon physics,
+Dialogue: 0,0:00:55.79,0:00:57.55,Default,,0,0,0,,but I trust you can figure it out.
+Dialogue: 0,0:00:57.55,0:00:59.79,Default,,0,0,0,,In the meantime, I was thinking Furb and I
+Dialogue: 0,0:00:59.79,0:01:01.64,Default,,0,0,0,,could take a crack at your world record
+Dialogue: 0,0:01:01.64,0:01:04.31,Default,,0,0,0,,breaking elephant toothpaste experiment.
+Dialogue: 0,0:01:04.31,0:01:07.28,Default,,0,0,0,,Ooh, why the heck would we both have our work cut out for us?
+Dialogue: 0,0:01:07.28,0:01:08.47,Default,,0,0,0,,I'll talk to you later.
+Dialogue: 0,0:01:08.47,0:01:10.07,Default,,0,0,0,,Now, I knew for personal experience
+Dialogue: 0,0:01:10.07,0:01:12.84,Default,,0,0,0,,if you can pull off a finies-sum Furb invention in real life,
+Dialogue: 0,0:01:12.84,0:01:14.84,Default,,0,0,0,,it makes for a really epic party
+Dialogue: 0,0:01:14.84,0:01:17.07,Default,,0,0,0,,with 15 tons of jello to spare.
+Dialogue: 0,0:01:17.07,0:01:19.87,Default,,0,0,0,,But the problem here was their rocket-powered tire-swing,
+Dialogue: 0,0:01:19.87,0:01:23.71,Default,,0,0,0,,leaned very heavily on the creative boundaries of cartoon physics
+Dialogue: 0,0:01:23.71,0:01:26.92,Default,,0,0,0,,with estimated peak forces that would be 35 times
+Dialogue: 0,0:01:26.92,0:01:28.28,Default,,0,0,0,,when a human could endure.
+Dialogue: 0,0:01:28.28,0:01:29.23,Default,,0,0,0,,So it was the first pass.
+Dialogue: 0,0:01:29.23,0:01:33.03,Default,,0,0,0,,I just let two rockets with 2,500 Newton-second total impulse
+Dialogue: 0,0:01:33.03,0:01:35.48,Default,,0,0,0,,to a single chain mounted to a tire-swing,
+Dialogue: 0,0:01:35.48,0:01:38.76,Default,,0,0,0,,and generously gave our 180-pound crash test dummy Newton
+Dialogue: 0,0:01:38.76,0:01:40.71,Default,,0,0,0,,first dibs on the ride of his life.
+Dialogue: 0,0:01:40.71,0:01:42.35,Default,,0,0,0,,Initiator is on.
+Dialogue: 0,0:01:42.35,0:01:44.15,Default,,0,0,0,,This is the test my hypothesis.
+Dialogue: 0,0:01:44.15,0:01:46.59,Default,,0,0,0,,Why finies-sum Furb is an animated show.
+Dialogue: 0,0:01:46.59,0:01:48.35,Default,,0,0,0,,Three, two, one.
+Dialogue: 0,0:01:48.35,0:01:49.20,Default,,0,0,0,,One.
+Dialogue: 0,0:01:49.20,0:01:50.20,Default,,0,0,0,,One.
+Dialogue: 0,0:01:50.20,0:01:51.20,Default,,0,0,0,,One.
+Dialogue: 0,0:01:51.20,0:01:52.20,Default,,0,0,0,,One.
+Dialogue: 0,0:01:52.20,0:01:53.20,Default,,0,0,0,,One.
+Dialogue: 0,0:01:53.20,0:01:54.20,Default,,0,0,0,,One.
+Dialogue: 0,0:01:54.20,0:02:00.20,Default,,0,0,0,,And after the smoke cleared, we lost our fans.
+Dialogue: 0,0:02:00.20,0:02:03.43,Default,,0,0,0,,That was the most powerful, depancing in history.
+Dialogue: 0,0:02:03.43,0:02:05.43,Default,,0,0,0,,The single chain is going to make it tough.
+Dialogue: 0,0:02:05.43,0:02:07.48,Default,,0,0,0,,So to keep us from immediately spinning out of control,
+Dialogue: 0,0:02:07.48,0:02:10.48,Default,,0,0,0,,and potentially losing all our dignity in the process,
+Dialogue: 0,0:02:10.48,0:02:12.59,Default,,0,0,0,,we doubled the chains for more stability.
+Dialogue: 0,0:02:12.59,0:02:13.59,Default,,0,0,0,,Here we go.
+Dialogue: 0,0:02:13.59,0:02:15.59,Default,,0,0,0,,And this time, let it rip.
+Dialogue: 0,0:02:15.59,0:02:22.59,Default,,0,0,0,,The exact same thing happened.
+Dialogue: 0,0:02:22.59,0:02:23.59,Default,,0,0,0,,No.
+Dialogue: 0,0:02:23.59,0:02:28.59,Default,,0,0,0,,He can't keep his clothes on.
+Dialogue: 0,0:02:28.59,0:02:30.59,Default,,0,0,0,,I think only one of them ignited.
+Dialogue: 0,0:02:30.59,0:02:32.59,Default,,0,0,0,,And a high-speed camera replay revealed,
+Dialogue: 0,0:02:32.59,0:02:34.59,Default,,0,0,0,,that's exactly what happened.
+Dialogue: 0,0:02:34.59,0:02:36.59,Default,,0,0,0,,So once we fix the fault to the ignition wire,
+Dialogue: 0,0:02:36.59,0:02:37.59,Default,,0,0,0,,we try it again.
+Dialogue: 0,0:02:37.59,0:02:38.59,Default,,0,0,0,,Go!
+Dialogue: 0,0:02:38.59,0:02:39.59,Default,,0,0,0,,No!
+Dialogue: 0,0:02:39.59,0:02:41.59,Default,,0,0,0,,I can't!
+Dialogue: 0,0:02:41.59,0:02:43.59,Default,,0,0,0,,How's he Newton?
+Dialogue: 0,0:02:44.59,0:02:46.59,Default,,0,0,0,,Which I'll remind you, ways more than I do.
+Dialogue: 0,0:02:46.59,0:02:48.59,Default,,0,0,0,,To launch 10 feet into the air,
+Dialogue: 0,0:02:48.59,0:02:50.59,Default,,0,0,0,,completing the stylish dismount.
+Dialogue: 0,0:02:50.59,0:02:52.59,Default,,0,0,0,,That was definitely both that time.
+Dialogue: 0,0:02:52.59,0:02:54.59,Default,,0,0,0,,It's Tuesday, Ron!
+Dialogue: 0,0:02:54.59,0:02:55.59,Default,,0,0,0,,That's a W.
+Dialogue: 0,0:02:55.59,0:02:59.59,Default,,0,0,0,,And while the dual chain configuration did provide a lot more stability,
+Dialogue: 0,0:02:59.59,0:03:01.59,Default,,0,0,0,,the slow move revealed it was really no way
+Dialogue: 0,0:03:01.59,0:03:04.59,Default,,0,0,0,,to reliably keep the thrust factor aligned in the best direction
+Dialogue: 0,0:03:04.59,0:03:05.59,Default,,0,0,0,,to loop us around.
+Dialogue: 0,0:03:05.59,0:03:06.59,Default,,0,0,0,,This is too squirrely.
+Dialogue: 0,0:03:06.59,0:03:08.59,Default,,0,0,0,,We need to go to rigid chains.
+Dialogue: 0,0:03:08.59,0:03:11.59,Default,,0,0,0,,To fix that, we swapped the two chains with two solid rods.
+Dialogue: 0,0:03:11.59,0:03:12.59,Default,,0,0,0,,Igniteers hot.
+Dialogue: 0,0:03:12.59,0:03:15.59,Default,,0,0,0,,Three, two, one.
+Dialogue: 0,0:03:15.59,0:03:16.59,Default,,0,0,0,,Go!
+Dialogue: 0,0:03:16.59,0:03:17.59,Default,,0,0,0,,Go!
+Dialogue: 0,0:03:17.59,0:03:18.59,Default,,0,0,0,,Go!
+Dialogue: 0,0:03:18.59,0:03:19.59,Default,,0,0,0,,Go!
+Dialogue: 0,0:03:19.59,0:03:20.59,Default,,0,0,0,,Go!
+Dialogue: 0,0:03:20.59,0:03:21.59,Default,,0,0,0,,Go!
+Dialogue: 0,0:03:21.59,0:03:24.59,Default,,0,0,0,,You can see here, the rocket forces were so high.
+Dialogue: 0,0:03:24.59,0:03:28.59,Default,,0,0,0,,It ripped our entire half-tun steel swing structure out from the stakes,
+Dialogue: 0,0:03:28.59,0:03:30.59,Default,,0,0,0,,anchoring it into the ground.
+Dialogue: 0,0:03:30.59,0:03:31.59,Default,,0,0,0,,That's the-
+Dialogue: 0,0:03:31.59,0:03:33.59,Default,,0,0,0,,You got-you got-
+Dialogue: 0,0:03:33.59,0:03:35.59,Default,,0,0,0,,Alright, well that's a successful rocket swing.
+Dialogue: 0,0:03:35.59,0:03:38.59,Default,,0,0,0,,Now we just got to figure out how to make it slightly more safe.
+Dialogue: 0,0:03:38.59,0:03:40.59,Default,,0,0,0,,So we were off to a promising start.
+Dialogue: 0,0:03:40.59,0:03:42.59,Default,,0,0,0,,We just needed a little more inspiration.
+Dialogue: 0,0:03:42.59,0:03:43.59,Default,,0,0,0,,Hey, Mark, how's the build?
+Dialogue: 0,0:03:43.59,0:03:47.59,Default,,0,0,0,,It's got a little work left, but it's getting less lethal by the minute.
+Dialogue: 0,0:03:47.59,0:03:50.59,Default,,0,0,0,,I do feel, though, that the party needs a little something more.
+Dialogue: 0,0:03:50.59,0:03:51.59,Default,,0,0,0,,I've got it.
+Dialogue: 0,0:03:51.59,0:03:56.59,Default,,0,0,0,,How about your build on my backyard roller culture like the one we made at the beginning of summer?
+Dialogue: 0,0:03:56.59,0:04:01.59,Default,,0,0,0,,Feel tracks, cards, with seat belts, and of course be sure to add extra thermal shielding
+Dialogue: 0,0:04:01.59,0:04:03.59,Default,,0,0,0,,for when you re-enter the atmosphere.
+Dialogue: 0,0:04:03.59,0:04:06.59,Default,,0,0,0,,Aren't you a little young to be building things that require extra thermal shielding
+Dialogue: 0,0:04:06.59,0:04:08.59,Default,,0,0,0,,for when they re-enter the atmosphere?
+Dialogue: 0,0:04:08.59,0:04:09.59,Default,,0,0,0,,Yes, yes I am.
+Dialogue: 0,0:04:09.59,0:04:10.59,Default,,0,0,0,,Well, the block.
+Dialogue: 0,0:04:10.59,0:04:11.59,Default,,0,0,0,,Oh, gotta go.
+Dialogue: 0,0:04:11.59,0:04:12.59,Default,,0,0,0,,Herb just arrived with.
+Dialogue: 0,0:04:12.59,0:04:14.59,Default,,0,0,0,,Oh, our store of the show.
+Dialogue: 0,0:04:14.59,0:04:17.60,Default,,0,0,0,,No, Phineas, you don't need a tiny-
+Dialogue: 0,0:04:17.60,0:04:18.60,Default,,0,0,0,,Tile it, Mark.
+Dialogue: 0,0:04:18.60,0:04:20.60,Default,,0,0,0,,Oh, that's gonna get messy.
+Dialogue: 0,0:04:20.60,0:04:24.60,Default,,0,0,0,,Now the good thing about roller coasters is unlike two story tall rock-a-power tire swings.
+Dialogue: 0,0:04:24.60,0:04:26.60,Default,,0,0,0,,Roller coasters actually exist.
+Dialogue: 0,0:04:26.60,0:04:31.60,Default,,0,0,0,,So I did what any self-respecting engineer would do as a first step and conducted some tedious research.
+Dialogue: 0,0:04:31.60,0:04:36.60,Default,,0,0,0,,Now I knew that finding the perfect Goldilocks zone for our birthday guests would be critical.
+Dialogue: 0,0:04:36.60,0:04:43.60,Default,,0,0,0,,Not so extreme, it sends him back to the hospital, but also not so boring, it feels like watching
+Dialogue: 0,0:04:43.60,0:04:44.60,Default,,0,0,0,,William Austin video.
+Dialogue: 0,0:04:44.60,0:04:49.60,Default,,0,0,0,,So armed with all the learnings from our TES research, we set up to build the perfect indoor roller
+Dialogue: 0,0:04:49.60,0:04:50.60,Default,,0,0,0,,coaster for my buddy Ethan.
+Dialogue: 0,0:04:50.60,0:04:51.60,Default,,0,0,0,,By the way, this is Ethan.
+Dialogue: 0,0:04:51.60,0:04:56.36,Default,,0,0,0,,And when you should know about Ethan, is he was recently diagnosed with a rare and severely
+Dialogue: 0,0:04:56.36,0:05:00.80,Default,,0,0,0,,debilitating neurological condition that left him bedridden, causing him to miss most of his
+Dialogue: 0,0:05:00.80,0:05:01.80,Default,,0,0,0,,school year.
+Dialogue: 0,0:05:01.80,0:05:05.60,Default,,0,0,0,,In fact, his pain in nausea was so severe, he couldn't even walk from one room to another.
+Dialogue: 0,0:05:05.60,0:05:08.60,Default,,0,0,0,,Other thing you should know about Ethan is he's incredibly resilient.
+Dialogue: 0,0:05:08.60,0:05:11.60,Default,,0,0,0,,And after a full year, he'd recovered enough to make his way back to school.
+Dialogue: 0,0:05:11.60,0:05:12.60,Default,,0,0,0,,And his luck would have it.
+Dialogue: 0,0:05:12.60,0:05:18.08,Default,,0,0,0,,He not only had a birthday party coming up, but he was also a massive finise in Furb fan, which was
+Dialogue: 0,0:05:18.08,0:05:22.08,Default,,0,0,0,,perfect because we had our first prototype of the world's greatest finise in Furb indoor roller
+Dialogue: 0,0:05:22.08,0:05:23.08,Default,,0,0,0,,coaster ready to test.
+Dialogue: 0,0:05:23.08,0:05:25.08,Default,,0,0,0,,OK, man, here we go!
+Dialogue: 0,0:05:25.08,0:05:27.08,Default,,0,0,0,,Let's go, let's go!
+Dialogue: 0,0:05:27.08,0:05:30.08,Default,,0,0,0,,Oh yeah!
+Dialogue: 0,0:05:30.08,0:05:32.60,Default,,0,0,0,,I think we're going to have to check our calculations.
+Dialogue: 0,0:05:32.60,0:05:35.72,Default,,0,0,0,,So I called up some of my buddies who are really good at this.
+Dialogue: 0,0:05:35.72,0:05:39.52,Default,,0,0,0,,And they introduced me to the efficiency of their calculations, why introduce them, to the
+Dialogue: 0,0:05:39.52,0:05:49.87,Default,,0,0,0,,efficiency of a 10 second build montage.
+Dialogue: 0,0:05:49.87,0:05:54.24,Default,,0,0,0,,And while not yet perfect, we were certainly on the right track.
+Dialogue: 0,0:05:54.24,0:05:55.96,Default,,0,0,0,,Now we just needed a few more of them.
+Dialogue: 0,0:05:55.96,0:05:56.96,Default,,0,0,0,,Good.
+Dialogue: 0,0:05:56.96,0:05:59.48,Default,,0,0,0,,And things were coming along great, but if I was going to get approval from the world's
+Dialogue: 0,0:05:59.48,0:06:02.48,Default,,0,0,0,,most creative engineer, it would need a little something extra.
+Dialogue: 0,0:06:02.48,0:06:04.92,Default,,0,0,0,,So I took a closer look at their original coaster.
+Dialogue: 0,0:06:04.92,0:06:08.80,Default,,0,0,0,,And while we definitely can't send even to France, we definitely could send them through
+Dialogue: 0,0:06:08.80,0:06:13.28,Default,,0,0,0,,a steak drop, a mud bucket, and a full-on car wash.
+Dialogue: 0,0:06:13.28,0:06:18.28,Default,,0,0,0,,Snakes on a train in 321.
+Dialogue: 0,0:06:18.28,0:06:19.28,Default,,0,0,0,,Snakes?
+Dialogue: 0,0:06:19.28,0:06:23.12,Default,,0,0,0,,This build was elegant.
+Dialogue: 0,0:06:23.12,0:06:27.48,Default,,0,0,0,,Our snakes bearing beautifully with a catapult calibrated mud bath.
+Dialogue: 0,0:06:27.48,0:06:28.48,Default,,0,0,0,,Ah!
+Dialogue: 0,0:06:28.48,0:06:29.96,Default,,0,0,0,,That's why we're safety classes.
+Dialogue: 0,0:06:29.96,0:06:31.36,Default,,0,0,0,,Why are you smiling so much?
+Dialogue: 0,0:06:31.36,0:06:32.36,Default,,0,0,0,,You're ready?
+Dialogue: 0,0:06:32.36,0:06:33.36,Default,,0,0,0,,Ah!
+Dialogue: 0,0:06:33.36,0:06:39.36,Default,,0,0,0,,Followed by a cleansing soap scrub, infused with eucalyptus soil, and 40 miles an hour.
+Dialogue: 0,0:06:39.36,0:06:41.36,Default,,0,0,0,,That out of debt.
+Dialogue: 0,0:06:41.36,0:06:46.75,Default,,0,0,0,,They're needed bit of a rinse off, and finally air drying with a gentle breeze.
+Dialogue: 0,0:06:46.75,0:06:47.75,Default,,0,0,0,,OK.
+Dialogue: 0,0:06:47.75,0:06:48.75,Default,,0,0,0,,OK.
+Dialogue: 0,0:06:48.75,0:06:49.75,Default,,0,0,0,,Clean as a whistle.
+Dialogue: 0,0:06:49.75,0:06:50.75,Default,,0,0,0,,Oh, good.
+Dialogue: 0,0:06:50.75,0:06:54.92,Default,,0,0,0,,So now it's both the roller coaster and the rocket's been pretty much ready to go.
+Dialogue: 0,0:06:54.92,0:06:55.92,Default,,0,0,0,,I opted for a check-in.
+Dialogue: 0,0:06:55.92,0:06:57.28,Default,,0,0,0,,Hey, Mark, how's it going?
+Dialogue: 0,0:06:57.28,0:06:59.56,Default,,0,0,0,,I mean, it's getting there.
+Dialogue: 0,0:06:59.56,0:07:02.56,Default,,0,0,0,,But how do we really make this the best birthday party ever?
+Dialogue: 0,0:07:02.56,0:07:03.92,Default,,0,0,0,,How about...
+Dialogue: 0,0:07:03.92,0:07:04.92,Default,,0,0,0,,Swinter.
+Dialogue: 0,0:07:04.92,0:07:06.63,Default,,0,0,0,,It's like summer, in winter.
+Dialogue: 0,0:07:06.63,0:07:09.92,Default,,0,0,0,,All you need is a snilco maker and a bunch of jet-powered fans.
+Dialogue: 0,0:07:09.92,0:07:11.80,Default,,0,0,0,,But be sure to keep it windows closed.
+Dialogue: 0,0:07:11.80,0:07:14.39,Default,,0,0,0,,You really don't want to bring Swinter inside your house.
+Dialogue: 0,0:07:14.39,0:07:15.39,Default,,0,0,0,,The news?
+Dialogue: 0,0:07:15.39,0:07:17.16,Default,,0,0,0,,You pointed head of genius.
+Dialogue: 0,0:07:17.16,0:07:18.95,Default,,0,0,0,,I think you're onto something.
+Dialogue: 0,0:07:18.95,0:07:19.95,Default,,0,0,0,,Oh, right.
+Dialogue: 0,0:07:19.95,0:07:24.84,Default,,0,0,0,,Oh, while I have you, Urban Eye will wondering if your elephant prefers mint or bubble
+Dialogue: 0,0:07:24.84,0:07:25.84,Default,,0,0,0,,gum flavoring.
+Dialogue: 0,0:07:25.84,0:07:26.84,Default,,0,0,0,,Neither.
+Dialogue: 0,0:07:26.84,0:07:29.51,Default,,0,0,0,,Don't you boys think you're taking this a little too literally?
+Dialogue: 0,0:07:29.51,0:07:30.51,Default,,0,0,0,,No, no, we don't.
+Dialogue: 0,0:07:30.51,0:07:32.51,Default,,0,0,0,,All right, we'll see ya.
+Dialogue: 0,0:07:32.51,0:07:33.51,Default,,0,0,0,,You know that.
+Dialogue: 0,0:07:33.51,0:07:34.51,Default,,0,0,0,,Snowing indoors?
+Dialogue: 0,0:07:34.51,0:07:35.51,Default,,0,0,0,,I'll get this be.
+Dialogue: 0,0:07:35.51,0:07:40.75,Default,,0,0,0,,Turns out a lot harder than the cartoon solution of Snowco maker's fans.
+Dialogue: 0,0:07:40.75,0:07:42.68,Default,,0,0,0,,So I invited out an old friend to help.
+Dialogue: 0,0:07:42.68,0:07:45.68,Default,,0,0,0,,Oh, my god.
+Dialogue: 0,0:07:45.68,0:07:47.27,Default,,0,0,0,,This is crazy.
+Dialogue: 0,0:07:47.27,0:07:48.27,Default,,0,0,0,,This is fletcher.
+Dialogue: 0,0:07:48.27,0:07:51.43,Default,,0,0,0,,And if you look familiar to you, that's because five years ago I surprised
+Dialogue: 0,0:07:51.43,0:07:56.15,Default,,0,0,0,,him with a special birthday party of his own, where he triggered the first ever devils toothpaste
+Dialogue: 0,0:07:56.15,0:07:59.47,Default,,0,0,0,,explosion and then broke the world record for the highest elephant.
+Dialogue: 0,0:07:59.48,0:08:00.48,Default,,0,0,0,,The best experiment.
+Dialogue: 0,0:08:00.48,0:08:04.96,Default,,0,0,0,,Now, the time fletcher was dealing with a very rare form of brain cancer and since so many
+Dialogue: 0,0:08:04.96,0:08:08.04,Default,,0,0,0,,of you have asked for an update over the years, here it is.
+Dialogue: 0,0:08:08.04,0:08:13.87,Default,,0,0,0,,I'm five years free of any sign of disease and I'm a senior in high school that's going
+Dialogue: 0,0:08:13.87,0:08:14.87,Default,,0,0,0,,to college.
+Dialogue: 0,0:08:14.87,0:08:16.87,Default,,0,0,0,,And you are almost as tall as me.
+Dialogue: 0,0:08:16.87,0:08:18.87,Default,,0,0,0,,I'm going to say, I'm still taller.
+Dialogue: 0,0:08:18.87,0:08:22.68,Default,,0,0,0,,So I explained to him the engineering challenge of creating a non-cart tune indoors.
+Dialogue: 0,0:08:22.68,0:08:23.68,Default,,0,0,0,,Snowstorm.
+Dialogue: 0,0:08:23.68,0:08:24.68,Default,,0,0,0,,Fletcher was all right.
+Dialogue: 0,0:08:24.68,0:08:25.68,Default,,0,0,0,,Let's do it.
+Dialogue: 0,0:08:25.68,0:08:28.00,Default,,0,0,0,,Yeah, the problem is I don't know how.
+Dialogue: 0,0:08:28.00,0:08:29.00,Default,,0,0,0,,I don't have the...
+Dialogue: 0,0:08:29.00,0:08:30.00,Default,,0,0,0,,Look at him.
+Dialogue: 0,0:08:30.00,0:08:34.00,Default,,0,0,0,,With that uninspiring kickoff, we decided to just try some items we had lying around
+Dialogue: 0,0:08:34.00,0:08:35.00,Default,,0,0,0,,crunchlets.
+Dialogue: 0,0:08:35.00,0:08:46.67,Default,,0,0,0,,I'm far the last one.
+Dialogue: 0,0:08:46.67,0:08:50.55,Default,,0,0,0,,Our first thought was grading styrofoam, but it turns out that's not only dangerous.
+Dialogue: 0,0:08:50.55,0:08:51.55,Default,,0,0,0,,Ow!
+Dialogue: 0,0:08:51.55,0:08:52.55,Default,,0,0,0,,Just created my finger.
+Dialogue: 0,0:08:52.55,0:08:56.91,Default,,0,0,0,,But the static electricity buildup means it would rather stick to you than the ground.
+Dialogue: 0,0:08:56.91,0:09:00.36,Default,,0,0,0,,This up was using that water absorbing callover you find a diapers.
+Dialogue: 0,0:09:00.36,0:09:02.79,Default,,0,0,0,,But it turns out it's not very good for making so balls.
+Dialogue: 0,0:09:02.79,0:09:03.79,Default,,0,0,0,,It's way too slippery.
+Dialogue: 0,0:09:03.79,0:09:04.79,Default,,0,0,0,,And I'm gonna pop that.
+Dialogue: 0,0:09:04.79,0:09:10.03,Default,,0,0,0,,The amount of diapers required would be half a metric, but which all left us with only
+Dialogue: 0,0:09:10.03,0:09:12.03,Default,,0,0,0,,one option.
+Dialogue: 0,0:09:12.03,0:09:13.03,Default,,0,0,0,,Hold this.
+Dialogue: 0,0:09:13.03,0:09:14.03,Default,,0,0,0,,Here we go!
+Dialogue: 0,0:09:14.03,0:09:19.47,Default,,0,0,0,,I'm being 80,000 pounds of actual ice into a woodchomp.
+Dialogue: 0,0:09:19.47,0:09:21.83,Default,,0,0,0,,I think it's going to work.
+Dialogue: 0,0:09:21.83,0:09:23.83,Default,,0,0,0,,What's like came in to check things out?
+Dialogue: 0,0:09:23.83,0:09:25.12,Default,,0,0,0,,All right, flesh, what do you think?
+Dialogue: 0,0:09:25.12,0:09:28.84,Default,,0,0,0,,It didn't take long for Flight sure to let the power go to his hand.
+Dialogue: 0,0:09:28.84,0:09:32.12,Default,,0,0,0,,Mark, you okay?
+Dialogue: 0,0:09:32.12,0:09:35.12,Default,,0,0,0,,Yeah, I'm fine.
+Dialogue: 0,0:09:35.12,0:09:37.12,Default,,0,0,0,,But this is good or great.
+Dialogue: 0,0:09:37.12,0:09:41.72,Default,,0,0,0,,Now that we had a solution in hand, I need to flex your help on one last finishing touch.
+Dialogue: 0,0:09:41.72,0:09:42.72,Default,,0,0,0,,Oh, it was Nathan.
+Dialogue: 0,0:09:42.72,0:09:46.84,Default,,0,0,0,,After which you abruptly told me he had to go.
+Dialogue: 0,0:09:46.84,0:09:47.84,Default,,0,0,0,,See you later.
+Dialogue: 0,0:09:47.84,0:09:48.84,Default,,0,0,0,,What?
+Dialogue: 0,0:09:48.84,0:09:50.24,Default,,0,0,0,,Man, this is gonna take a while.
+Dialogue: 0,0:09:50.24,0:09:52.48,Default,,0,0,0,,A lot longer now with one person.
+Dialogue: 0,0:09:53.48,0:09:55.24,Default,,0,0,0,,We're back in snow!
+Dialogue: 0,0:09:55.24,0:09:56.24,Default,,0,0,0,,Let's go!
+Dialogue: 0,0:09:56.24,0:09:59.27,Default,,0,0,0,,Four hours and 40 tons of ice later.
+Dialogue: 0,0:09:59.27,0:10:02.63,Default,,0,0,0,,All that was left was to nail the surprise.
+Dialogue: 0,0:10:02.63,0:10:05.24,Default,,0,0,0,,Eight months of planning and where it comes down to this moment.
+Dialogue: 0,0:10:05.24,0:10:06.08,Default,,0,0,0,,There he is.
+Dialogue: 0,0:10:06.08,0:10:08.72,Default,,0,0,0,,Oh gosh, my heart's about to beat out of my chest.
+Dialogue: 0,0:10:08.72,0:10:12.12,Default,,0,0,0,,We had either parents tell him he was auditioning for a toy commercial, so he wouldn't
+Dialogue: 0,0:10:12.12,0:10:13.12,Default,,0,0,0,,suspect anything.
+Dialogue: 0,0:10:13.12,0:10:17.39,Default,,0,0,0,,We laid eyes on a balloon laden indoor roller coaster, resting on two feet of freshly
+Dialogue: 0,0:10:17.39,0:10:18.39,Default,,0,0,0,,packs.
+Dialogue: 0,0:10:18.39,0:10:19.39,Default,,0,0,0,,No.
+Dialogue: 0,0:10:19.39,0:10:20.39,Default,,0,0,0,,That's cold.
+Dialogue: 0,0:10:20.39,0:10:22.79,Default,,0,0,0,,Because he's been was catching on quick.
+Dialogue: 0,0:10:22.79,0:10:24.43,Default,,0,0,0,,Why is there a crunch laden?
+Dialogue: 0,0:10:24.43,0:10:25.43,Default,,0,0,0,,Nathan.
+Dialogue: 0,0:10:25.43,0:10:27.43,Default,,0,0,0,,What's going on, pal?
+Dialogue: 0,0:10:27.43,0:10:28.43,Default,,0,0,0,,No.
+Dialogue: 0,0:10:28.43,0:10:29.43,Default,,0,0,0,,No.
+Dialogue: 0,0:10:29.43,0:10:30.43,Default,,0,0,0,,No.
+Dialogue: 0,0:10:30.43,0:10:32.43,Default,,0,0,0,,I thought you might need a coat.
+Dialogue: 0,0:10:32.43,0:10:34.43,Default,,0,0,0,,Wait, I'm so confused.
+Dialogue: 0,0:10:34.43,0:10:35.43,Default,,0,0,0,,What is your favorite cartoon?
+Dialogue: 0,0:10:35.43,0:10:36.72,Default,,0,0,0,,Finiessen firm, probably.
+Dialogue: 0,0:10:36.72,0:10:39.43,Default,,0,0,0,,Have you seen the episode where the make the rocket powered swing?
+Dialogue: 0,0:10:39.43,0:10:40.43,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:10:40.43,0:10:42.72,Default,,0,0,0,,Have you seen the episode where they send the roller coaster to space?
+Dialogue: 0,0:10:42.72,0:10:43.72,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:10:43.72,0:10:46.03,Default,,0,0,0,,Have you seen the episode Ethan called Swinter?
+Dialogue: 0,0:10:46.03,0:10:47.87,Default,,0,0,0,,Where they turned inside into winter?
+Dialogue: 0,0:10:47.87,0:10:48.87,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:10:48.87,0:10:50.19,Default,,0,0,0,,This is Finiessen firm in real life.
+Dialogue: 0,0:10:50.20,0:10:52.20,Default,,0,0,0,,I'm throwing you a birthday party today.
+Dialogue: 0,0:10:52.20,0:10:53.20,Default,,0,0,0,,What?
+Dialogue: 0,0:10:53.20,0:10:54.20,Default,,0,0,0,,No.
+Dialogue: 0,0:10:54.20,0:10:55.20,Default,,0,0,0,,Uh-huh.
+Dialogue: 0,0:10:55.20,0:10:58.20,Default,,0,0,0,,You know what a banger party needs, Ethan?
+Dialogue: 0,0:10:58.20,0:10:59.20,Default,,0,0,0,,A birthday cake?
+Dialogue: 0,0:10:59.20,0:11:00.20,Default,,0,0,0,,It doesn't need a cake.
+Dialogue: 0,0:11:00.20,0:11:01.20,Default,,0,0,0,,Let's work on a cake.
+Dialogue: 0,0:11:01.20,0:11:03.20,Default,,0,0,0,,You know what it also needs, though.
+Dialogue: 0,0:11:03.20,0:11:04.20,Default,,0,0,0,,Feel like we should have more people here.
+Dialogue: 0,0:11:04.20,0:11:06.20,Default,,0,0,0,,You have friends you'd want to invite?
+Dialogue: 0,0:11:06.20,0:11:07.20,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:11:07.20,0:11:09.20,Default,,0,0,0,,And that was the cue to send in.
+Dialogue: 0,0:11:09.20,0:11:11.20,Default,,0,0,0,,All of Ethan's best friends.
+Dialogue: 0,0:11:11.20,0:11:14.20,Default,,0,0,0,,And also his loudest friends.
+Dialogue: 0,0:11:14.20,0:11:19.20,Default,,0,0,0,,Ethan is a little sister, which meant that he had an important decision to make.
+Dialogue: 0,0:11:19.20,0:11:21.20,Default,,0,0,0,,Ethan is it okay if they all hang out with us?
+Dialogue: 0,0:11:21.20,0:11:23.20,Default,,0,0,0,,Ethan you better say yes.
+Dialogue: 0,0:11:23.20,0:11:26.20,Default,,0,0,0,,Fine, but I have something to say.
+Dialogue: 0,0:11:26.20,0:11:28.20,Default,,0,0,0,,Okay, that was from you.
+Dialogue: 0,0:11:28.20,0:11:29.20,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:11:29.20,0:11:30.20,Default,,0,0,0,,What do you guys say?
+Dialogue: 0,0:11:30.20,0:11:31.20,Default,,0,0,0,,We started the rocket swing.
+Dialogue: 0,0:11:31.20,0:11:32.20,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:11:32.20,0:11:36.20,Default,,0,0,0,,Before we kick off the party, I realize you're probably looking for a good way to spend
+Dialogue: 0,0:11:36.20,0:11:38.20,Default,,0,0,0,,Your 104 days of summer vacation.
+Dialogue: 0,0:11:38.20,0:11:42.20,Default,,0,0,0,,We'll look no further because it's here and it's called Camp Crunch Labs.
+Dialogue: 0,0:11:42.20,0:11:46.20,Default,,0,0,0,,Camp Crunch Labs is your key to fighting that summer brain tree.
+Dialogue: 0,0:11:47.20,0:11:54.20,Default,,0,0,0,,With an eight week virtual space theme summer camp that hops to each of the planets in our solar system.
+Dialogue: 0,0:11:54.20,0:11:59.20,Default,,0,0,0,,Featuring weekly videos with mega experiments that I do.
+Dialogue: 0,0:11:59.20,0:12:04.20,Default,,0,0,0,,And super challenges that you and the best of these weekly challenge submissions
+Dialogue: 0,0:12:04.20,0:12:07.20,Default,,0,0,0,,earns one of these bad boys to platinum ticket.
+Dialogue: 0,0:12:07.20,0:12:12.20,Default,,0,0,0,,Giving you the chance to join me on my favorite planet for the biggest mega experiment of them all
+Dialogue: 0,0:12:12.20,0:12:14.20,Default,,0,0,0,,in the final episode of a summer.
+Dialogue: 0,0:12:15.20,0:12:19.20,Default,,0,0,0,,I'll tell you that usually the Crunch Labs bill boxes where they super fun toy together
+Dialogue: 0,0:12:19.20,0:12:22.20,Default,,0,0,0,,learning all the juicy physics how they work comes once a month.
+Dialogue: 0,0:12:22.20,0:12:27.20,Default,,0,0,0,,But to coincide with space camp Crunch Labs weekly challenges and videos all summer long
+Dialogue: 0,0:12:27.20,0:12:30.20,Default,,0,0,0,,We'll ship them to you every week.
+Dialogue: 0,0:12:30.20,0:12:31.20,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:12:31.20,0:12:35.20,Default,,0,0,0,,So if you want an eight week summer camp where you could travel the cosmos while learning to
+Dialogue: 0,0:12:35.20,0:12:36.20,Default,,0,0,0,,think like an engineer.
+Dialogue: 0,0:12:36.20,0:12:41.20,Default,,0,0,0,,With an absolute zero percent chance of bug bites of poison ivy.
+Dialogue: 0,0:12:41.20,0:12:45.20,Default,,0,0,0,,And the camp Crunch Labs stock comers are one of the limited spots and I'll see you in camp.
+Dialogue: 0,0:12:45.20,0:12:49.20,Default,,0,0,0,,Back at the party it was time to see if I'd actually accomplished turning three finnies and
+Dialogue: 0,0:12:49.20,0:12:51.20,Default,,0,0,0,,fur of cartoon marbles into real life.
+Dialogue: 0,0:12:51.20,0:12:53.20,Default,,0,0,0,,Starting first with the rockets.
+Dialogue: 0,0:12:53.20,0:12:54.20,Default,,0,0,0,,You guys want to see it.
+Dialogue: 0,0:12:54.20,0:13:02.20,Default,,0,0,0,,You might notice we swapped the rockets out for a pair of 24 volt electric turbines.
+Dialogue: 0,0:13:02.20,0:13:06.20,Default,,0,0,0,,Miss provided two advantages first.
+Dialogue: 0,0:13:06.20,0:13:09.20,Default,,0,0,0,,We learned from testing that big rockets.
+Dialogue: 0,0:13:10.20,0:13:12.20,Default,,0,0,0,,We gave a lot of smoke.
+Dialogue: 0,0:13:12.20,0:13:13.20,Default,,0,0,0,,But what's your breath?
+Dialogue: 0,0:13:13.20,0:13:16.20,Default,,0,0,0,,Which is not ideal for your lungs or your smoke alarm.
+Dialogue: 0,0:13:16.20,0:13:20.20,Default,,0,0,0,,And second if you post the turbines at the exact natural frequency of the swing.
+Dialogue: 0,0:13:20.20,0:13:27.20,Default,,0,0,0,,Which is exactly what you naturally do when you pump your legs on a swing by the way.
+Dialogue: 0,0:13:27.20,0:13:30.20,Default,,0,0,0,,Then you can add more and more energy to the swing.
+Dialogue: 0,0:13:30.20,0:13:32.20,Default,,0,0,0,,Tell us enough.
+Dialogue: 0,0:13:32.20,0:13:33.20,Default,,0,0,0,,Mark Mark Mark Mark Mark.
+Dialogue: 0,0:13:33.20,0:13:34.20,Default,,0,0,0,,Do clear the bar.
+Dialogue: 0,0:13:34.20,0:13:35.20,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:13:35.20,0:13:36.20,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:13:36.20,0:13:37.20,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:13:37.20,0:13:38.20,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:13:38.20,0:13:43.20,Default,,0,0,0,,And even with their modifications, he thought suddenly occurred.
+Dialogue: 0,0:13:43.20,0:13:46.20,Default,,0,0,0,,That's a really dangerous.
+Dialogue: 0,0:13:46.20,0:13:48.20,Default,,0,0,0,,My protest fell on deaf ears.
+Dialogue: 0,0:13:48.20,0:13:50.20,Default,,0,0,0,,Safety is for losers.
+Dialogue: 0,0:13:50.20,0:13:51.20,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:13:51.20,0:13:53.20,Default,,0,0,0,,See you as you with such a tough guy all of a sudden.
+Dialogue: 0,0:13:53.20,0:13:55.20,Default,,0,0,0,,I decided to use Ethan to get a baseline.
+Dialogue: 0,0:13:55.20,0:13:56.20,Default,,0,0,0,,Here we go.
+Dialogue: 0,0:13:56.20,0:13:57.20,Default,,0,0,0,,There we go.
+Dialogue: 0,0:13:57.20,0:14:02.20,Default,,0,0,0,,Just seeing how high you could swing if you just had to rely on your boring old mussels.
+Dialogue: 0,0:14:02.20,0:14:03.20,Default,,0,0,0,,Wow!
+Dialogue: 0,0:14:03.20,0:14:06.20,Default,,0,0,0,,And the answer was pretty much horizontal.
+Dialogue: 0,0:14:06.20,0:14:08.20,Default,,0,0,0,,Ethan, you're kind of going high.
+Dialogue: 0,0:14:08.20,0:14:09.20,Default,,0,0,0,,I shmied.
+Dialogue: 0,0:14:09.20,0:14:14.20,Default,,0,0,0,,Now, it was my turn to see what would have been if you added 14,000 RPMs of propulsion.
+Dialogue: 0,0:14:14.20,0:14:17.20,Default,,0,0,0,,Okay, are you guys ready?
+Dialogue: 0,0:14:17.20,0:14:22.20,Default,,0,0,0,,Of course, the number one rule when demoing a potentially disastrous engineering bill that
+Dialogue: 0,0:14:22.20,0:14:25.20,Default,,0,0,0,,a kid's birthday is that you definitely want to do it before you-
+Dialogue: 0,0:14:25.20,0:14:27.20,Default,,0,0,0,,I've never done this before.
+Dialogue: 0,0:14:27.20,0:14:29.20,Default,,0,0,0,,What do you mean you've never done this before?
+Dialogue: 0,0:14:29.20,0:14:30.20,Default,,0,0,0,,How has he been tested?
+Dialogue: 0,0:14:30.20,0:14:31.20,Default,,0,0,0,,No!
+Dialogue: 0,0:14:31.20,0:14:32.20,Default,,0,0,0,,No!
+Dialogue: 0,0:14:32.20,0:14:33.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:14:33.20,0:14:34.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:14:34.20,0:14:37.20,Default,,0,0,0,,Oh, my God!
+Dialogue: 0,0:14:37.20,0:14:39.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:14:39.20,0:14:41.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:14:41.20,0:14:42.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:14:42.20,0:14:43.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:14:43.20,0:14:44.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:14:44.20,0:14:45.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:14:45.20,0:14:46.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:14:46.20,0:14:51.20,Default,,0,0,0,,And the only feeling better than pulling off a bill like this is how you feel when you finally
+Dialogue: 0,0:14:51.20,0:14:52.20,Default,,0,0,0,,get off the bill.
+Dialogue: 0,0:14:52.20,0:14:53.20,Default,,0,0,0,,Oh my God!
+Dialogue: 0,0:14:53.20,0:14:54.20,Default,,0,0,0,,That looks so nauseating.
+Dialogue: 0,0:14:54.20,0:14:55.20,Default,,0,0,0,,Ethan, you're next!
+Dialogue: 0,0:14:55.20,0:14:56.20,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:14:56.20,0:15:00.20,Default,,0,0,0,,Before we got to the big roller coaster finale, I decided we should take a little
+Dialogue: 0,0:15:00.20,0:15:03.20,Default,,0,0,0,,swim to break, starting with some snow cones.
+Dialogue: 0,0:15:03.20,0:15:06.20,Default,,0,0,0,,Who ready for a snowball fight?
+Dialogue: 0,0:15:06.20,0:15:09.20,Default,,0,0,0,,And some snowballs.
+Dialogue: 0,0:15:09.20,0:15:13.20,Default,,0,0,0,,However, unfortunately for them, certain habits-
+Dialogue: 0,0:15:13.20,0:15:16.20,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:15:16.20,0:15:17.20,Default,,0,0,0,,Or hard to kick.
+Dialogue: 0,0:15:17.20,0:15:18.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:15:18.20,0:15:19.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:15:19.20,0:15:20.20,Default,,0,0,0,,Headshot!
+Dialogue: 0,0:15:20.20,0:15:21.20,Default,,0,0,0,,Who's next?
+Dialogue: 0,0:15:21.20,0:15:22.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:15:22.20,0:15:23.20,Default,,0,0,0,,That was awesome!
+Dialogue: 0,0:15:23.20,0:15:24.20,Default,,0,0,0,,All right!
+Dialogue: 0,0:15:24.20,0:15:25.20,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:15:25.20,0:15:27.20,Default,,0,0,0,,And then suddenly, and very undeservedly, I might add.
+Dialogue: 0,0:15:27.20,0:15:28.20,Default,,0,0,0,,I wasn't over my head.
+Dialogue: 0,0:15:28.20,0:15:30.20,Default,,0,0,0,,Why is everyone aiming at me?
+Dialogue: 0,0:15:30.20,0:15:33.20,Default,,0,0,0,,Okay, true?
+Dialogue: 0,0:15:33.20,0:15:36.20,Default,,0,0,0,,Who wants to go sledding?
+Dialogue: 0,0:15:36.20,0:15:37.20,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:15:37.20,0:15:38.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:15:38.20,0:15:39.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:15:39.20,0:15:40.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:15:40.20,0:15:41.20,Default,,0,0,0,,Woo!
+Dialogue: 0,0:15:41.20,0:15:42.20,Default,,0,0,0,,Don't hide me!
+Dialogue: 0,0:15:42.20,0:15:43.20,Default,,0,0,0,,I thought that was-
+Dialogue: 0,0:15:43.20,0:15:45.20,Default,,0,0,0,,Ethan was really encouraging with his friends.
+Dialogue: 0,0:15:45.20,0:15:46.20,Default,,0,0,0,,Soy!
+Dialogue: 0,0:15:46.20,0:15:48.20,Default,,0,0,0,,That is when he was in the tackle.
+Dialogue: 0,0:15:48.20,0:15:49.20,Default,,0,0,0,,Oh yeah!
+Dialogue: 0,0:15:49.20,0:15:50.20,Default,,0,0,0,,Go back!
+Dialogue: 0,0:15:50.20,0:15:53.20,Default,,0,0,0,,After we had our filled with snowballs and sledding,
+Dialogue: 0,0:15:54.20,0:15:56.20,Default,,0,0,0,,it was time to test out the final and most audacious,
+Dialogue: 0,0:15:56.20,0:15:58.20,Default,,0,0,0,,Phoenies and Furbin real life engineering build.
+Dialogue: 0,0:15:58.20,0:16:02.20,Default,,0,0,0,,Now up the stakes, Ethan reminded me what their coaster was actually like in the show.
+Dialogue: 0,0:16:02.20,0:16:05.20,Default,,0,0,0,,There was like snagged and like a car wash and a bunch of stuff.
+Dialogue: 0,0:16:05.20,0:16:07.20,Default,,0,0,0,,So if this is really Phoenies Furbin-
+Dialogue: 0,0:16:07.20,0:16:08.20,Default,,0,0,0,,It would be a triangle.
+Dialogue: 0,0:16:08.20,0:16:09.20,Default,,0,0,0,,Oh yeah!
+Dialogue: 0,0:16:09.20,0:16:11.20,Default,,0,0,0,,If this was Phoenies Furbin, it would be a triangle fair fair.
+Dialogue: 0,0:16:11.20,0:16:13.20,Default,,0,0,0,,But I wasn't going to make Ethan ride solo.
+Dialogue: 0,0:16:13.20,0:16:15.20,Default,,0,0,0,,So I had no choice but to buckle up.
+Dialogue: 0,0:16:15.20,0:16:17.20,Default,,0,0,0,,I've never met Phoenies and Furbin.
+Dialogue: 0,0:16:17.20,0:16:18.20,Default,,0,0,0,,Oh yeah!
+Dialogue: 0,0:16:18.20,0:16:19.20,Default,,0,0,0,,This was Phoenies Furbin.
+Dialogue: 0,0:16:19.20,0:16:21.20,Default,,0,0,0,,So I had no choice but to buckle up.
+Dialogue: 0,0:16:21.20,0:16:24.20,Default,,0,0,0,,I've never met Ethan or you know this.
+Dialogue: 0,0:16:24.20,0:16:25.20,Default,,0,0,0,,Three!
+Dialogue: 0,0:16:25.20,0:16:26.20,Default,,0,0,0,,One! Two!
+Dialogue: 0,0:16:26.20,0:16:27.20,Default,,0,0,0,,One!
+Dialogue: 0,0:16:27.20,0:16:28.20,Default,,0,0,0,,Go!
+Dialogue: 0,0:16:28.20,0:16:29.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:29.20,0:16:30.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:30.20,0:16:31.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:31.20,0:16:32.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:32.20,0:16:33.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:33.20,0:16:34.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:34.20,0:16:35.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:35.20,0:16:36.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:36.20,0:16:37.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:37.20,0:16:38.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:38.20,0:16:39.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:39.20,0:16:40.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:40.20,0:16:41.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:41.20,0:16:43.20,Default,,0,0,0,,And while the stakes were fake,
+Dialogue: 0,0:16:43.20,0:16:45.20,Default,,0,0,0,,the mud was real.
+Dialogue: 0,0:16:45.20,0:16:46.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:46.20,0:16:47.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:47.20,0:16:48.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:48.20,0:16:49.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:50.20,0:16:51.20,Default,,0,0,0,,That's one of the stuff of course.
+Dialogue: 0,0:16:51.20,0:16:54.20,Default,,0,0,0,,So Mr. Rizzoff in Science Bob's 20 mile an hour car was.
+Dialogue: 0,0:16:54.20,0:16:55.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:55.20,0:16:56.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:56.20,0:16:57.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:57.20,0:16:58.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:58.20,0:16:59.20,Default,,0,0,0,,No!
+Dialogue: 0,0:16:59.20,0:17:00.20,Default,,0,0,0,,No!
+Dialogue: 0,0:17:00.20,0:17:01.20,Default,,0,0,0,,No!
+Dialogue: 0,0:17:01.20,0:17:05.20,Default,,0,0,0,,For pulling to a halt in front of a massive blow dryer so we could try off.
+Dialogue: 0,0:17:05.20,0:17:06.20,Default,,0,0,0,,Nice and clean.
+Dialogue: 0,0:17:06.20,0:17:07.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:17:07.20,0:17:08.20,Default,,0,0,0,,Oh!
+Dialogue: 0,0:17:08.20,0:17:10.20,Default,,0,0,0,,You won't have to shower tonight, at least.
+Dialogue: 0,0:17:10.20,0:17:12.20,Default,,0,0,0,,I doubt that, but um.
+Dialogue: 0,0:17:12.20,0:17:15.20,Default,,0,0,0,,So now that all three of our mentions were tested and Ethan approved.
+Dialogue: 0,0:17:15.20,0:17:16.20,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:17:16.20,0:17:21.20,Default,,0,0,0,,It was time to give Ethan a well deserved 15 second party by post.
+Dialogue: 0,0:17:21.20,0:17:25.20,Default,,0,0,0,,Music
+Dialogue: 0,0:17:25.20,0:17:33.20,Default,,0,0,0,,Music
+Dialogue: 0,0:17:33.20,0:17:35.20,Default,,0,0,0,,Ethan, now I'll have a confession.
+Dialogue: 0,0:17:35.20,0:17:38.20,Default,,0,0,0,,I didn't pull this off on my own. I had a little help.
+Dialogue: 0,0:17:38.20,0:17:39.20,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:17:39.20,0:17:41.20,Default,,0,0,0,,Hey, friendies!
+Dialogue: 0,0:17:41.20,0:17:43.20,Default,,0,0,0,,Look what we did!
+Dialogue: 0,0:17:44.20,0:17:48.20,Default,,0,0,0,,Well, you know for not relying on Cartoon physics, that looks so fun.
+Dialogue: 0,0:17:48.20,0:17:50.20,Default,,0,0,0,,Unhappy at all worked out for you.
+Dialogue: 0,0:17:50.20,0:17:52.20,Default,,0,0,0,,Now for the elephant toothpaste experiment.
+Dialogue: 0,0:17:52.20,0:17:55.20,Default,,0,0,0,,Well make sure firm isn't too close.
+Dialogue: 0,0:17:55.20,0:17:57.20,Default,,0,0,0,,Ha ha, oops.
+Dialogue: 0,0:17:57.20,0:18:00.20,Default,,0,0,0,,Wow, it looks like you got a lot of cleanup on your hand.
+Dialogue: 0,0:18:00.20,0:18:02.20,Default,,0,0,0,,You want us to help?
+Dialogue: 0,0:18:02.20,0:18:05.20,Default,,0,0,0,,Actually our cleanup usually takes care of itself.
+Dialogue: 0,0:18:09.20,0:18:10.20,Default,,0,0,0,,See?
+Dialogue: 0,0:18:10.20,0:18:11.20,Default,,0,0,0,,No must, no fuss.
+Dialogue: 0,0:18:11.20,0:18:12.20,Default,,0,0,0,,Bye, Mark.
+Dialogue: 0,0:18:13.20,0:18:16.20,Default,,0,0,0,,Sorry, Ethan, but that trick will not work in real life.
+Dialogue: 0,0:18:16.20,0:18:17.20,Default,,0,0,0,,Am I cleaning up?
+Dialogue: 0,0:18:17.20,0:18:19.20,Default,,0,0,0,,A grab a shovel, let's clean this up.
+Dialogue: 0,0:18:19.20,0:18:20.20,Default,,0,0,0,,Oh my god.
+Dialogue: 0,0:18:20.20,0:18:21.20,Default,,0,0,0,,Woo.
+Dialogue: 0,0:18:21.20,0:18:23.20,Default,,0,0,0,,Ha ha ha.
+Dialogue: 0,0:18:23.20,0:18:26.20,Default,,0,0,0,,Now that Ethan's been given the best birthday ever,
+Dialogue: 0,0:18:26.20,0:18:28.20,Default,,0,0,0,,why not join us for the best summer-end.
+Dialogue: 0,0:18:28.20,0:18:30.20,Default,,0,0,0,,Space Camp Crunchy-Lat.
+Dialogue: 0,0:18:30.20,0:18:34.20,Default,,0,0,0,,Eight-week virtual space theme summer camp designed to help fight that summer
+Dialogue: 0,0:18:34.20,0:18:35.20,Default,,0,0,0,,brain drainage.
+Dialogue: 0,0:18:35.20,0:18:38.20,Default,,0,0,0,,Since you got canned crunch locks off top of parents and a sort of a little bit of
+Dialogue: 0,0:18:38.20,0:18:40.20,Default,,0,0,0,,spots, it'll snow with camp.

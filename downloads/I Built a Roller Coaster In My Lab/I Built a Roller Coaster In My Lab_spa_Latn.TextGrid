@@ -1,0 +1,2014 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1120.2
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "transcript"
+        xmin = 0.0
+        xmax = 1120.2
+        intervals: size = 500
+        intervals [1]:
+            xmin = 0.0
+            xmax = 3.56
+            text = " This is the most epic birthday party ever!"
+        intervals [2]:
+            xmin = 3.56
+            xmax = 6.6000000000000005
+            text = " It's got a jet power tie-to-swing, a custom-built roller coaster,"
+        intervals [3]:
+            xmin = 6.6000000000000005
+            xmax = 9.28
+            text = " and an indoor sledding hill with axle-slap!"
+        intervals [4]:
+            xmin = 9.28
+            xmax = 10.56
+            text = " Oh!"
+        intervals [5]:
+            xmin = 10.56
+            xmax = 13.96
+            text = " And I said all this up, surprised the world's most deserving kids."
+        intervals [6]:
+            xmin = 13.96
+            xmax = 15.72
+            text = " Safety is for losers!"
+        intervals [7]:
+            xmin = 15.72
+            xmax = 16.96
+            text = " Yeah!"
+        intervals [8]:
+            xmin = 16.96
+            xmax = 19.76
+            text = " I'm importantly three months ago, one of this existed,"
+        intervals [9]:
+            xmin = 19.76
+            xmax = 21.76
+            text = " because that's when I reached out to a friend of mine"
+        intervals [10]:
+            xmin = 21.76
+            xmax = 25.64
+            text = " who many considered to be the greatest engineer this world's ever known."
+        intervals [11]:
+            xmin = 25.64
+            xmax = 26.8
+            text = " Oh, hey, Mark!"
+        intervals [12]:
+            xmin = 26.88
+            xmax = 27.720000000000002
+            text = " Phidias!"
+        intervals [13]:
+            xmin = 27.720000000000002
+            xmax = 30.240000000000002
+            text = " I'm planning on throwing the world's greatest birthday party"
+        intervals [14]:
+            xmin = 30.240000000000002
+            xmax = 31.36
+            text = " for this kid named Ethan."
+        intervals [15]:
+            xmin = 31.36
+            xmax = 32.4
+            text = " I can explain later."
+        intervals [16]:
+            xmin = 32.4
+            xmax = 35.16
+            text = " For now, I need you know what you've got in the idea."
+        intervals [17]:
+            xmin = 35.16
+            xmax = 37.4
+            text = " Oh, that's a great question, Mark."
+        intervals [18]:
+            xmin = 37.4
+            xmax = 41.480000000000004
+            text = " One time, Furb and I made the world's first rocket-powered tire-swing,"
+        intervals [19]:
+            xmin = 41.480000000000004
+            xmax = 44.2
+            text = " you'll just need a tire, you're standard-elemon parts,"
+        intervals [20]:
+            xmin = 44.2
+            xmax = 46.2
+            text = " don't forget your high-powered rockets."
+        intervals [21]:
+            xmin = 46.2
+            xmax = 49.56
+            text = " Oh, and as you can see, as long as you don't remove this screw,"
+        intervals [22]:
+            xmin = 49.56
+            xmax = 50.24
+            text = " you'll be fine."
+        intervals [23]:
+            xmin = 50.24
+            xmax = 53.6
+            text = " You do realize that brings like seven laws of physics, right?"
+        intervals [24]:
+            xmin = 53.6
+            xmax = 55.8
+            text = " Well, we're working with cartoon physics,"
+        intervals [25]:
+            xmin = 55.8
+            xmax = 57.559999999999995
+            text = " but I trust you can figure it out."
+        intervals [26]:
+            xmin = 57.559999999999995
+            xmax = 59.8
+            text = " In the meantime, I was thinking Furb and I"
+        intervals [27]:
+            xmin = 59.8
+            xmax = 61.64
+            text = " could take a crack at your world record"
+        intervals [28]:
+            xmin = 61.64
+            xmax = 64.32
+            text = " breaking elephant toothpaste experiment."
+        intervals [29]:
+            xmin = 64.32
+            xmax = 67.28
+            text = " Ooh, why the heck would we both have our work cut out for us?"
+        intervals [30]:
+            xmin = 67.28
+            xmax = 68.47999999999999
+            text = " I'll talk to you later."
+        intervals [31]:
+            xmin = 68.47999999999999
+            xmax = 70.08
+            text = " Now, I knew for personal experience"
+        intervals [32]:
+            xmin = 70.08
+            xmax = 72.84
+            text = " if you can pull off a finies-sum Furb invention in real life,"
+        intervals [33]:
+            xmin = 72.84
+            xmax = 74.84
+            text = " it makes for a really epic party"
+        intervals [34]:
+            xmin = 74.84
+            xmax = 77.08
+            text = " with 15 tons of jello to spare."
+        intervals [35]:
+            xmin = 77.08
+            xmax = 79.88
+            text = " But the problem here was their rocket-powered tire-swing,"
+        intervals [36]:
+            xmin = 79.88
+            xmax = 83.72
+            text = " leaned very heavily on the creative boundaries of cartoon physics"
+        intervals [37]:
+            xmin = 83.72
+            xmax = 86.92
+            text = " with estimated peak forces that would be 35 times"
+        intervals [38]:
+            xmin = 86.92
+            xmax = 88.28
+            text = " when a human could endure."
+        intervals [39]:
+            xmin = 88.28
+            xmax = 89.24
+            text = " So it was the first pass."
+        intervals [40]:
+            xmin = 89.24
+            xmax = 93.03999999999999
+            text = " I just let two rockets with 2,500 Newton-second total impulse"
+        intervals [41]:
+            xmin = 93.03999999999999
+            xmax = 95.48
+            text = " to a single chain mounted to a tire-swing,"
+        intervals [42]:
+            xmin = 95.48
+            xmax = 98.76
+            text = " and generously gave our 180-pound crash test dummy Newton"
+        intervals [43]:
+            xmin = 98.76
+            xmax = 100.72
+            text = " first dibs on the ride of his life."
+        intervals [44]:
+            xmin = 100.72
+            xmax = 102.36
+            text = " Initiator is on."
+        intervals [45]:
+            xmin = 102.36
+            xmax = 104.16
+            text = " This is the test my hypothesis."
+        intervals [46]:
+            xmin = 104.16
+            xmax = 106.6
+            text = " Why finies-sum Furb is an animated show."
+        intervals [47]:
+            xmin = 106.6
+            xmax = 108.36
+            text = " Three, two, one."
+        intervals [48]:
+            xmin = 108.36
+            xmax = 109.2
+            text = " One."
+        intervals [49]:
+            xmin = 109.2
+            xmax = 110.2
+            text = " One."
+        intervals [50]:
+            xmin = 110.2
+            xmax = 111.2
+            text = " One."
+        intervals [51]:
+            xmin = 111.2
+            xmax = 112.2
+            text = " One."
+        intervals [52]:
+            xmin = 112.2
+            xmax = 113.2
+            text = " One."
+        intervals [53]:
+            xmin = 113.2
+            xmax = 114.2
+            text = " One."
+        intervals [54]:
+            xmin = 114.2
+            xmax = 120.2
+            text = " And after the smoke cleared, we lost our fans."
+        intervals [55]:
+            xmin = 120.2
+            xmax = 123.44
+            text = " That was the most powerful, depancing in history."
+        intervals [56]:
+            xmin = 123.44
+            xmax = 125.44
+            text = " The single chain is going to make it tough."
+        intervals [57]:
+            xmin = 125.44
+            xmax = 127.48
+            text = " So to keep us from immediately spinning out of control,"
+        intervals [58]:
+            xmin = 127.48
+            xmax = 130.48000000000002
+            text = " and potentially losing all our dignity in the process,"
+        intervals [59]:
+            xmin = 130.48000000000002
+            xmax = 132.6
+            text = " we doubled the chains for more stability."
+        intervals [60]:
+            xmin = 132.6
+            xmax = 133.6
+            text = " Here we go."
+        intervals [61]:
+            xmin = 133.6
+            xmax = 135.6
+            text = " And this time, let it rip."
+        intervals [62]:
+            xmin = 135.6
+            xmax = 142.6
+            text = " The exact same thing happened."
+        intervals [63]:
+            xmin = 142.6
+            xmax = 143.6
+            text = " No."
+        intervals [64]:
+            xmin = 143.6
+            xmax = 148.6
+            text = " He can't keep his clothes on."
+        intervals [65]:
+            xmin = 148.6
+            xmax = 150.6
+            text = " I think only one of them ignited."
+        intervals [66]:
+            xmin = 150.6
+            xmax = 152.6
+            text = " And a high-speed camera replay revealed,"
+        intervals [67]:
+            xmin = 152.6
+            xmax = 154.6
+            text = " that's exactly what happened."
+        intervals [68]:
+            xmin = 154.6
+            xmax = 156.6
+            text = " So once we fix the fault to the ignition wire,"
+        intervals [69]:
+            xmin = 156.6
+            xmax = 157.6
+            text = " we try it again."
+        intervals [70]:
+            xmin = 157.6
+            xmax = 158.6
+            text = " Go!"
+        intervals [71]:
+            xmin = 158.6
+            xmax = 159.6
+            text = " No!"
+        intervals [72]:
+            xmin = 159.6
+            xmax = 161.6
+            text = " I can't!"
+        intervals [73]:
+            xmin = 161.6
+            xmax = 163.6
+            text = " How's he Newton?"
+        intervals [74]:
+            xmin = 164.6
+            xmax = 166.6
+            text = " Which I'll remind you, ways more than I do."
+        intervals [75]:
+            xmin = 166.6
+            xmax = 168.6
+            text = " To launch 10 feet into the air,"
+        intervals [76]:
+            xmin = 168.6
+            xmax = 170.6
+            text = " completing the stylish dismount."
+        intervals [77]:
+            xmin = 170.6
+            xmax = 172.6
+            text = " That was definitely both that time."
+        intervals [78]:
+            xmin = 172.6
+            xmax = 174.6
+            text = " It's Tuesday, Ron!"
+        intervals [79]:
+            xmin = 174.6
+            xmax = 175.6
+            text = " That's a W."
+        intervals [80]:
+            xmin = 175.6
+            xmax = 179.6
+            text = " And while the dual chain configuration did provide a lot more stability,"
+        intervals [81]:
+            xmin = 179.6
+            xmax = 181.6
+            text = " the slow move revealed it was really no way"
+        intervals [82]:
+            xmin = 181.6
+            xmax = 184.6
+            text = " to reliably keep the thrust factor aligned in the best direction"
+        intervals [83]:
+            xmin = 184.6
+            xmax = 185.6
+            text = " to loop us around."
+        intervals [84]:
+            xmin = 185.6
+            xmax = 186.6
+            text = " This is too squirrely."
+        intervals [85]:
+            xmin = 186.6
+            xmax = 188.6
+            text = " We need to go to rigid chains."
+        intervals [86]:
+            xmin = 188.6
+            xmax = 191.6
+            text = " To fix that, we swapped the two chains with two solid rods."
+        intervals [87]:
+            xmin = 191.6
+            xmax = 192.6
+            text = " Igniteers hot."
+        intervals [88]:
+            xmin = 192.6
+            xmax = 195.6
+            text = " Three, two, one."
+        intervals [89]:
+            xmin = 195.6
+            xmax = 196.6
+            text = " Go!"
+        intervals [90]:
+            xmin = 196.6
+            xmax = 197.6
+            text = " Go!"
+        intervals [91]:
+            xmin = 197.6
+            xmax = 198.6
+            text = " Go!"
+        intervals [92]:
+            xmin = 198.6
+            xmax = 199.6
+            text = " Go!"
+        intervals [93]:
+            xmin = 199.6
+            xmax = 200.6
+            text = " Go!"
+        intervals [94]:
+            xmin = 200.6
+            xmax = 201.6
+            text = " Go!"
+        intervals [95]:
+            xmin = 201.6
+            xmax = 204.6
+            text = " You can see here, the rocket forces were so high."
+        intervals [96]:
+            xmin = 204.6
+            xmax = 208.6
+            text = " It ripped our entire half-tun steel swing structure out from the stakes,"
+        intervals [97]:
+            xmin = 208.6
+            xmax = 210.6
+            text = " anchoring it into the ground."
+        intervals [98]:
+            xmin = 210.6
+            xmax = 211.6
+            text = " That's the-"
+        intervals [99]:
+            xmin = 211.6
+            xmax = 213.6
+            text = " You got-you got-"
+        intervals [100]:
+            xmin = 213.6
+            xmax = 215.6
+            text = " Alright, well that's a successful rocket swing."
+        intervals [101]:
+            xmin = 215.6
+            xmax = 218.6
+            text = " Now we just got to figure out how to make it slightly more safe."
+        intervals [102]:
+            xmin = 218.6
+            xmax = 220.6
+            text = " So we were off to a promising start."
+        intervals [103]:
+            xmin = 220.6
+            xmax = 222.6
+            text = " We just needed a little more inspiration."
+        intervals [104]:
+            xmin = 222.6
+            xmax = 223.6
+            text = " Hey, Mark, how's the build?"
+        intervals [105]:
+            xmin = 223.6
+            xmax = 227.6
+            text = " It's got a little work left, but it's getting less lethal by the minute."
+        intervals [106]:
+            xmin = 227.6
+            xmax = 230.6
+            text = " I do feel, though, that the party needs a little something more."
+        intervals [107]:
+            xmin = 230.6
+            xmax = 231.6
+            text = " I've got it."
+        intervals [108]:
+            xmin = 231.6
+            xmax = 236.6
+            text = " How about your build on my backyard roller culture like the one we made at the beginning of summer?"
+        intervals [109]:
+            xmin = 236.6
+            xmax = 241.6
+            text = " Feel tracks, cards, with seat belts, and of course be sure to add extra thermal shielding"
+        intervals [110]:
+            xmin = 241.6
+            xmax = 243.6
+            text = " for when you re-enter the atmosphere."
+        intervals [111]:
+            xmin = 243.6
+            xmax = 246.6
+            text = " Aren't you a little young to be building things that require extra thermal shielding"
+        intervals [112]:
+            xmin = 246.6
+            xmax = 248.6
+            text = " for when they re-enter the atmosphere?"
+        intervals [113]:
+            xmin = 248.6
+            xmax = 249.6
+            text = " Yes, yes I am."
+        intervals [114]:
+            xmin = 249.6
+            xmax = 250.6
+            text = " Well, the block."
+        intervals [115]:
+            xmin = 250.6
+            xmax = 251.6
+            text = " Oh, gotta go."
+        intervals [116]:
+            xmin = 251.6
+            xmax = 252.6
+            text = " Herb just arrived with."
+        intervals [117]:
+            xmin = 252.6
+            xmax = 254.6
+            text = " Oh, our store of the show."
+        intervals [118]:
+            xmin = 254.6
+            xmax = 257.6
+            text = " No, Phineas, you don't need a tiny-"
+        intervals [119]:
+            xmin = 257.6
+            xmax = 258.6
+            text = " Tile it, Mark."
+        intervals [120]:
+            xmin = 258.6
+            xmax = 260.6
+            text = " Oh, that's gonna get messy."
+        intervals [121]:
+            xmin = 260.6
+            xmax = 264.6
+            text = " Now the good thing about roller coasters is unlike two story tall rock-a-power tire swings."
+        intervals [122]:
+            xmin = 264.6
+            xmax = 266.6
+            text = " Roller coasters actually exist."
+        intervals [123]:
+            xmin = 266.6
+            xmax = 271.6
+            text = " So I did what any self-respecting engineer would do as a first step and conducted some tedious research."
+        intervals [124]:
+            xmin = 271.6
+            xmax = 276.6
+            text = " Now I knew that finding the perfect Goldilocks zone for our birthday guests would be critical."
+        intervals [125]:
+            xmin = 276.6
+            xmax = 283.6
+            text = " Not so extreme, it sends him back to the hospital, but also not so boring, it feels like watching"
+        intervals [126]:
+            xmin = 283.6
+            xmax = 284.6
+            text = " William Austin video."
+        intervals [127]:
+            xmin = 284.6
+            xmax = 289.6
+            text = " So armed with all the learnings from our TES research, we set up to build the perfect indoor roller"
+        intervals [128]:
+            xmin = 289.6
+            xmax = 290.6
+            text = " coaster for my buddy Ethan."
+        intervals [129]:
+            xmin = 290.6
+            xmax = 291.6
+            text = " By the way, this is Ethan."
+        intervals [130]:
+            xmin = 291.6
+            xmax = 296.36
+            text = " And when you should know about Ethan, is he was recently diagnosed with a rare and severely"
+        intervals [131]:
+            xmin = 296.36
+            xmax = 300.8
+            text = " debilitating neurological condition that left him bedridden, causing him to miss most of his"
+        intervals [132]:
+            xmin = 300.8
+            xmax = 301.8
+            text = " school year."
+        intervals [133]:
+            xmin = 301.8
+            xmax = 305.6
+            text = " In fact, his pain in nausea was so severe, he couldn't even walk from one room to another."
+        intervals [134]:
+            xmin = 305.6
+            xmax = 308.6
+            text = " Other thing you should know about Ethan is he's incredibly resilient."
+        intervals [135]:
+            xmin = 308.6
+            xmax = 311.6
+            text = " And after a full year, he'd recovered enough to make his way back to school."
+        intervals [136]:
+            xmin = 311.6
+            xmax = 312.6
+            text = " And his luck would have it."
+        intervals [137]:
+            xmin = 312.6
+            xmax = 318.08000000000004
+            text = " He not only had a birthday party coming up, but he was also a massive finise in Furb fan, which was"
+        intervals [138]:
+            xmin = 318.08000000000004
+            xmax = 322.08000000000004
+            text = " perfect because we had our first prototype of the world's greatest finise in Furb indoor roller"
+        intervals [139]:
+            xmin = 322.08000000000004
+            xmax = 323.08000000000004
+            text = " coaster ready to test."
+        intervals [140]:
+            xmin = 323.08000000000004
+            xmax = 325.08000000000004
+            text = " OK, man, here we go!"
+        intervals [141]:
+            xmin = 325.08000000000004
+            xmax = 327.08000000000004
+            text = " Let's go, let's go!"
+        intervals [142]:
+            xmin = 327.08000000000004
+            xmax = 330.08000000000004
+            text = " Oh yeah!"
+        intervals [143]:
+            xmin = 330.08000000000004
+            xmax = 332.6
+            text = " I think we're going to have to check our calculations."
+        intervals [144]:
+            xmin = 332.6
+            xmax = 335.72
+            text = " So I called up some of my buddies who are really good at this."
+        intervals [145]:
+            xmin = 335.72
+            xmax = 339.52000000000004
+            text = " And they introduced me to the efficiency of their calculations, why introduce them, to the"
+        intervals [146]:
+            xmin = 339.52000000000004
+            xmax = 349.88
+            text = " efficiency of a 10 second build montage."
+        intervals [147]:
+            xmin = 349.88
+            xmax = 354.24
+            text = " And while not yet perfect, we were certainly on the right track."
+        intervals [148]:
+            xmin = 354.24
+            xmax = 355.96000000000004
+            text = " Now we just needed a few more of them."
+        intervals [149]:
+            xmin = 355.96000000000004
+            xmax = 356.96000000000004
+            text = " Good."
+        intervals [150]:
+            xmin = 356.96000000000004
+            xmax = 359.48
+            text = " And things were coming along great, but if I was going to get approval from the world's"
+        intervals [151]:
+            xmin = 359.48
+            xmax = 362.48
+            text = " most creative engineer, it would need a little something extra."
+        intervals [152]:
+            xmin = 362.48
+            xmax = 364.92
+            text = " So I took a closer look at their original coaster."
+        intervals [153]:
+            xmin = 364.92
+            xmax = 368.8
+            text = " And while we definitely can't send even to France, we definitely could send them through"
+        intervals [154]:
+            xmin = 368.8
+            xmax = 373.28000000000003
+            text = " a steak drop, a mud bucket, and a full-on car wash."
+        intervals [155]:
+            xmin = 373.28000000000003
+            xmax = 378.28000000000003
+            text = " Snakes on a train in 321."
+        intervals [156]:
+            xmin = 378.28000000000003
+            xmax = 379.28000000000003
+            text = " Snakes?"
+        intervals [157]:
+            xmin = 379.28000000000003
+            xmax = 383.12
+            text = " This build was elegant."
+        intervals [158]:
+            xmin = 383.12
+            xmax = 387.48
+            text = " Our snakes bearing beautifully with a catapult calibrated mud bath."
+        intervals [159]:
+            xmin = 387.48
+            xmax = 388.48
+            text = " Ah!"
+        intervals [160]:
+            xmin = 388.48
+            xmax = 389.96000000000004
+            text = " That's why we're safety classes."
+        intervals [161]:
+            xmin = 389.96000000000004
+            xmax = 391.36
+            text = " Why are you smiling so much?"
+        intervals [162]:
+            xmin = 391.36
+            xmax = 392.36
+            text = " You're ready?"
+        intervals [163]:
+            xmin = 392.36
+            xmax = 393.36
+            text = " Ah!"
+        intervals [164]:
+            xmin = 393.36
+            xmax = 399.36
+            text = " Followed by a cleansing soap scrub, infused with eucalyptus soil, and 40 miles an hour."
+        intervals [165]:
+            xmin = 399.36
+            xmax = 401.36
+            text = " That out of debt."
+        intervals [166]:
+            xmin = 401.36
+            xmax = 406.76
+            text = " They're needed bit of a rinse off, and finally air drying with a gentle breeze."
+        intervals [167]:
+            xmin = 406.76
+            xmax = 407.76
+            text = " OK."
+        intervals [168]:
+            xmin = 407.76
+            xmax = 408.76
+            text = " OK."
+        intervals [169]:
+            xmin = 408.76
+            xmax = 409.76
+            text = " Clean as a whistle."
+        intervals [170]:
+            xmin = 409.76
+            xmax = 410.76
+            text = " Oh, good."
+        intervals [171]:
+            xmin = 410.76
+            xmax = 414.92
+            text = " So now it's both the roller coaster and the rocket's been pretty much ready to go."
+        intervals [172]:
+            xmin = 414.92
+            xmax = 415.92
+            text = " I opted for a check-in."
+        intervals [173]:
+            xmin = 415.92
+            xmax = 417.28000000000003
+            text = " Hey, Mark, how's it going?"
+        intervals [174]:
+            xmin = 417.28000000000003
+            xmax = 419.56
+            text = " I mean, it's getting there."
+        intervals [175]:
+            xmin = 419.56
+            xmax = 422.56
+            text = " But how do we really make this the best birthday party ever?"
+        intervals [176]:
+            xmin = 422.56
+            xmax = 423.92
+            text = " How about..."
+        intervals [177]:
+            xmin = 423.92
+            xmax = 424.92
+            text = " Swinter."
+        intervals [178]:
+            xmin = 424.92
+            xmax = 426.64
+            text = " It's like summer, in winter."
+        intervals [179]:
+            xmin = 426.64
+            xmax = 429.92
+            text = " All you need is a snilco maker and a bunch of jet-powered fans."
+        intervals [180]:
+            xmin = 429.92
+            xmax = 431.8
+            text = " But be sure to keep it windows closed."
+        intervals [181]:
+            xmin = 431.8
+            xmax = 434.4
+            text = " You really don't want to bring Swinter inside your house."
+        intervals [182]:
+            xmin = 434.4
+            xmax = 435.4
+            text = " The news?"
+        intervals [183]:
+            xmin = 435.4
+            xmax = 437.16
+            text = " You pointed head of genius."
+        intervals [184]:
+            xmin = 437.16
+            xmax = 438.96
+            text = " I think you're onto something."
+        intervals [185]:
+            xmin = 438.96
+            xmax = 439.96
+            text = " Oh, right."
+        intervals [186]:
+            xmin = 439.96
+            xmax = 444.84000000000003
+            text = " Oh, while I have you, Urban Eye will wondering if your elephant prefers mint or bubble"
+        intervals [187]:
+            xmin = 444.84000000000003
+            xmax = 445.84000000000003
+            text = " gum flavoring."
+        intervals [188]:
+            xmin = 445.84000000000003
+            xmax = 446.84000000000003
+            text = " Neither."
+        intervals [189]:
+            xmin = 446.84000000000003
+            xmax = 449.52
+            text = " Don't you boys think you're taking this a little too literally?"
+        intervals [190]:
+            xmin = 449.52
+            xmax = 450.52
+            text = " No, no, we don't."
+        intervals [191]:
+            xmin = 450.52
+            xmax = 452.52
+            text = " All right, we'll see ya."
+        intervals [192]:
+            xmin = 452.52
+            xmax = 453.52
+            text = " You know that."
+        intervals [193]:
+            xmin = 453.52
+            xmax = 454.52
+            text = " Snowing indoors?"
+        intervals [194]:
+            xmin = 454.52
+            xmax = 455.52
+            text = " I'll get this be."
+        intervals [195]:
+            xmin = 455.52
+            xmax = 460.76
+            text = " Turns out a lot harder than the cartoon solution of Snowco maker's fans."
+        intervals [196]:
+            xmin = 460.76
+            xmax = 462.68
+            text = " So I invited out an old friend to help."
+        intervals [197]:
+            xmin = 462.68
+            xmax = 465.68
+            text = " Oh, my god."
+        intervals [198]:
+            xmin = 465.68
+            xmax = 467.28
+            text = " This is crazy."
+        intervals [199]:
+            xmin = 467.28
+            xmax = 468.28
+            text = " This is fletcher."
+        intervals [200]:
+            xmin = 468.28
+            xmax = 471.44
+            text = " And if you look familiar to you, that's because five years ago I surprised"
+        intervals [201]:
+            xmin = 471.44
+            xmax = 476.15999999999997
+            text = " him with a special birthday party of his own, where he triggered the first ever devils toothpaste"
+        intervals [202]:
+            xmin = 476.15999999999997
+            xmax = 479.47999999999996
+            text = " explosion and then broke the world record for the highest elephant."
+        intervals [203]:
+            xmin = 479.48
+            xmax = 480.48
+            text = " The best experiment."
+        intervals [204]:
+            xmin = 480.48
+            xmax = 484.96000000000004
+            text = " Now, the time fletcher was dealing with a very rare form of brain cancer and since so many"
+        intervals [205]:
+            xmin = 484.96000000000004
+            xmax = 488.04
+            text = " of you have asked for an update over the years, here it is."
+        intervals [206]:
+            xmin = 488.04
+            xmax = 493.88
+            text = " I'm five years free of any sign of disease and I'm a senior in high school that's going"
+        intervals [207]:
+            xmin = 493.88
+            xmax = 494.88
+            text = " to college."
+        intervals [208]:
+            xmin = 494.88
+            xmax = 496.88
+            text = " And you are almost as tall as me."
+        intervals [209]:
+            xmin = 496.88
+            xmax = 498.88
+            text = " I'm going to say, I'm still taller."
+        intervals [210]:
+            xmin = 498.88
+            xmax = 502.68
+            text = " So I explained to him the engineering challenge of creating a non-cart tune indoors."
+        intervals [211]:
+            xmin = 502.68
+            xmax = 503.68
+            text = " Snowstorm."
+        intervals [212]:
+            xmin = 503.68
+            xmax = 504.68
+            text = " Fletcher was all right."
+        intervals [213]:
+            xmin = 504.68
+            xmax = 505.68
+            text = " Let's do it."
+        intervals [214]:
+            xmin = 505.68
+            xmax = 508.0
+            text = " Yeah, the problem is I don't know how."
+        intervals [215]:
+            xmin = 508.0
+            xmax = 509.0
+            text = " I don't have the..."
+        intervals [216]:
+            xmin = 509.0
+            xmax = 510.0
+            text = " Look at him."
+        intervals [217]:
+            xmin = 510.0
+            xmax = 514.0
+            text = " With that uninspiring kickoff, we decided to just try some items we had lying around"
+        intervals [218]:
+            xmin = 514.0
+            xmax = 515.0
+            text = " crunchlets."
+        intervals [219]:
+            xmin = 515.0
+            xmax = 526.68
+            text = " I'm far the last one."
+        intervals [220]:
+            xmin = 526.68
+            xmax = 530.56
+            text = " Our first thought was grading styrofoam, but it turns out that's not only dangerous."
+        intervals [221]:
+            xmin = 530.56
+            xmax = 531.56
+            text = " Ow!"
+        intervals [222]:
+            xmin = 531.56
+            xmax = 532.56
+            text = " Just created my finger."
+        intervals [223]:
+            xmin = 532.56
+            xmax = 536.92
+            text = " But the static electricity buildup means it would rather stick to you than the ground."
+        intervals [224]:
+            xmin = 536.92
+            xmax = 540.36
+            text = " This up was using that water absorbing callover you find a diapers."
+        intervals [225]:
+            xmin = 540.36
+            xmax = 542.8
+            text = " But it turns out it's not very good for making so balls."
+        intervals [226]:
+            xmin = 542.8
+            xmax = 543.8
+            text = " It's way too slippery."
+        intervals [227]:
+            xmin = 543.8
+            xmax = 544.8
+            text = " And I'm gonna pop that."
+        intervals [228]:
+            xmin = 544.8
+            xmax = 550.04
+            text = " The amount of diapers required would be half a metric, but which all left us with only"
+        intervals [229]:
+            xmin = 550.04
+            xmax = 552.04
+            text = " one option."
+        intervals [230]:
+            xmin = 552.04
+            xmax = 553.04
+            text = " Hold this."
+        intervals [231]:
+            xmin = 553.04
+            xmax = 554.04
+            text = " Here we go!"
+        intervals [232]:
+            xmin = 554.04
+            xmax = 559.4799999999999
+            text = " I'm being 80,000 pounds of actual ice into a woodchomp."
+        intervals [233]:
+            xmin = 559.4799999999999
+            xmax = 561.8399999999999
+            text = " I think it's going to work."
+        intervals [234]:
+            xmin = 561.8399999999999
+            xmax = 563.8399999999999
+            text = " What's like came in to check things out?"
+        intervals [235]:
+            xmin = 563.8399999999999
+            xmax = 565.12
+            text = " All right, flesh, what do you think?"
+        intervals [236]:
+            xmin = 565.12
+            xmax = 568.84
+            text = " It didn't take long for Flight sure to let the power go to his hand."
+        intervals [237]:
+            xmin = 568.84
+            xmax = 572.12
+            text = " Mark, you okay?"
+        intervals [238]:
+            xmin = 572.12
+            xmax = 575.12
+            text = " Yeah, I'm fine."
+        intervals [239]:
+            xmin = 575.12
+            xmax = 577.12
+            text = " But this is good or great."
+        intervals [240]:
+            xmin = 577.12
+            xmax = 581.72
+            text = " Now that we had a solution in hand, I need to flex your help on one last finishing touch."
+        intervals [241]:
+            xmin = 581.72
+            xmax = 582.72
+            text = " Oh, it was Nathan."
+        intervals [242]:
+            xmin = 582.72
+            xmax = 586.84
+            text = " After which you abruptly told me he had to go."
+        intervals [243]:
+            xmin = 586.84
+            xmax = 587.84
+            text = " See you later."
+        intervals [244]:
+            xmin = 587.84
+            xmax = 588.84
+            text = " What?"
+        intervals [245]:
+            xmin = 588.84
+            xmax = 590.24
+            text = " Man, this is gonna take a while."
+        intervals [246]:
+            xmin = 590.24
+            xmax = 592.48
+            text = " A lot longer now with one person."
+        intervals [247]:
+            xmin = 593.48
+            xmax = 595.24
+            text = " We're back in snow!"
+        intervals [248]:
+            xmin = 595.24
+            xmax = 596.24
+            text = " Let's go!"
+        intervals [249]:
+            xmin = 596.24
+            xmax = 599.28
+            text = " Four hours and 40 tons of ice later."
+        intervals [250]:
+            xmin = 599.28
+            xmax = 602.64
+            text = " All that was left was to nail the surprise."
+        intervals [251]:
+            xmin = 602.64
+            xmax = 605.24
+            text = " Eight months of planning and where it comes down to this moment."
+        intervals [252]:
+            xmin = 605.24
+            xmax = 606.08
+            text = " There he is."
+        intervals [253]:
+            xmin = 606.08
+            xmax = 608.72
+            text = " Oh gosh, my heart's about to beat out of my chest."
+        intervals [254]:
+            xmin = 608.72
+            xmax = 612.12
+            text = " We had either parents tell him he was auditioning for a toy commercial, so he wouldn't"
+        intervals [255]:
+            xmin = 612.12
+            xmax = 613.12
+            text = " suspect anything."
+        intervals [256]:
+            xmin = 613.12
+            xmax = 617.4
+            text = " We laid eyes on a balloon laden indoor roller coaster, resting on two feet of freshly"
+        intervals [257]:
+            xmin = 617.4
+            xmax = 618.4
+            text = " packs."
+        intervals [258]:
+            xmin = 618.4
+            xmax = 619.4
+            text = " No."
+        intervals [259]:
+            xmin = 619.4
+            xmax = 620.4
+            text = " That's cold."
+        intervals [260]:
+            xmin = 620.4
+            xmax = 622.8
+            text = " Because he's been was catching on quick."
+        intervals [261]:
+            xmin = 622.8
+            xmax = 624.4399999999999
+            text = " Why is there a crunch laden?"
+        intervals [262]:
+            xmin = 624.4399999999999
+            xmax = 625.4399999999999
+            text = " Nathan."
+        intervals [263]:
+            xmin = 625.4399999999999
+            xmax = 627.4399999999999
+            text = " What's going on, pal?"
+        intervals [264]:
+            xmin = 627.4399999999999
+            xmax = 628.4399999999999
+            text = " No."
+        intervals [265]:
+            xmin = 628.4399999999999
+            xmax = 629.4399999999999
+            text = " No."
+        intervals [266]:
+            xmin = 629.4399999999999
+            xmax = 630.4399999999999
+            text = " No."
+        intervals [267]:
+            xmin = 630.4399999999999
+            xmax = 632.4399999999999
+            text = " I thought you might need a coat."
+        intervals [268]:
+            xmin = 632.4399999999999
+            xmax = 634.4399999999999
+            text = " Wait, I'm so confused."
+        intervals [269]:
+            xmin = 634.4399999999999
+            xmax = 635.4399999999999
+            text = " What is your favorite cartoon?"
+        intervals [270]:
+            xmin = 635.4399999999999
+            xmax = 636.72
+            text = " Finiessen firm, probably."
+        intervals [271]:
+            xmin = 636.72
+            xmax = 639.4399999999999
+            text = " Have you seen the episode where the make the rocket powered swing?"
+        intervals [272]:
+            xmin = 639.4399999999999
+            xmax = 640.4399999999999
+            text = " Yeah."
+        intervals [273]:
+            xmin = 640.4399999999999
+            xmax = 642.72
+            text = " Have you seen the episode where they send the roller coaster to space?"
+        intervals [274]:
+            xmin = 642.72
+            xmax = 643.72
+            text = " Yeah."
+        intervals [275]:
+            xmin = 643.72
+            xmax = 646.04
+            text = " Have you seen the episode Ethan called Swinter?"
+        intervals [276]:
+            xmin = 646.04
+            xmax = 647.88
+            text = " Where they turned inside into winter?"
+        intervals [277]:
+            xmin = 647.88
+            xmax = 648.88
+            text = " Yeah."
+        intervals [278]:
+            xmin = 648.88
+            xmax = 650.1999999999999
+            text = " This is Finiessen firm in real life."
+        intervals [279]:
+            xmin = 650.2
+            xmax = 652.2
+            text = " I'm throwing you a birthday party today."
+        intervals [280]:
+            xmin = 652.2
+            xmax = 653.2
+            text = " What?"
+        intervals [281]:
+            xmin = 653.2
+            xmax = 654.2
+            text = " No."
+        intervals [282]:
+            xmin = 654.2
+            xmax = 655.2
+            text = " Uh-huh."
+        intervals [283]:
+            xmin = 655.2
+            xmax = 658.2
+            text = " You know what a banger party needs, Ethan?"
+        intervals [284]:
+            xmin = 658.2
+            xmax = 659.2
+            text = " A birthday cake?"
+        intervals [285]:
+            xmin = 659.2
+            xmax = 660.2
+            text = " It doesn't need a cake."
+        intervals [286]:
+            xmin = 660.2
+            xmax = 661.2
+            text = " Let's work on a cake."
+        intervals [287]:
+            xmin = 661.2
+            xmax = 663.2
+            text = " You know what it also needs, though."
+        intervals [288]:
+            xmin = 663.2
+            xmax = 664.2
+            text = " Feel like we should have more people here."
+        intervals [289]:
+            xmin = 664.2
+            xmax = 666.2
+            text = " You have friends you'd want to invite?"
+        intervals [290]:
+            xmin = 666.2
+            xmax = 667.2
+            text = " Yeah."
+        intervals [291]:
+            xmin = 667.2
+            xmax = 669.2
+            text = " And that was the cue to send in."
+        intervals [292]:
+            xmin = 669.2
+            xmax = 671.2
+            text = " All of Ethan's best friends."
+        intervals [293]:
+            xmin = 671.2
+            xmax = 674.2
+            text = " And also his loudest friends."
+        intervals [294]:
+            xmin = 674.2
+            xmax = 679.2
+            text = " Ethan is a little sister, which meant that he had an important decision to make."
+        intervals [295]:
+            xmin = 679.2
+            xmax = 681.2
+            text = " Ethan is it okay if they all hang out with us?"
+        intervals [296]:
+            xmin = 681.2
+            xmax = 683.2
+            text = " Ethan you better say yes."
+        intervals [297]:
+            xmin = 683.2
+            xmax = 686.2
+            text = " Fine, but I have something to say."
+        intervals [298]:
+            xmin = 686.2
+            xmax = 688.2
+            text = " Okay, that was from you."
+        intervals [299]:
+            xmin = 688.2
+            xmax = 689.2
+            text = " Yeah."
+        intervals [300]:
+            xmin = 689.2
+            xmax = 690.2
+            text = " What do you guys say?"
+        intervals [301]:
+            xmin = 690.2
+            xmax = 691.2
+            text = " We started the rocket swing."
+        intervals [302]:
+            xmin = 691.2
+            xmax = 692.2
+            text = " Yeah."
+        intervals [303]:
+            xmin = 692.2
+            xmax = 696.2
+            text = " Before we kick off the party, I realize you're probably looking for a good way to spend"
+        intervals [304]:
+            xmin = 696.2
+            xmax = 698.2
+            text = " Your 104 days of summer vacation."
+        intervals [305]:
+            xmin = 698.2
+            xmax = 702.2
+            text = " We'll look no further because it's here and it's called Camp Crunch Labs."
+        intervals [306]:
+            xmin = 702.2
+            xmax = 706.2
+            text = " Camp Crunch Labs is your key to fighting that summer brain tree."
+        intervals [307]:
+            xmin = 707.2
+            xmax = 714.2
+            text = " With an eight week virtual space theme summer camp that hops to each of the planets in our solar system."
+        intervals [308]:
+            xmin = 714.2
+            xmax = 719.2
+            text = " Featuring weekly videos with mega experiments that I do."
+        intervals [309]:
+            xmin = 719.2
+            xmax = 724.2
+            text = " And super challenges that you and the best of these weekly challenge submissions"
+        intervals [310]:
+            xmin = 724.2
+            xmax = 727.2
+            text = " earns one of these bad boys to platinum ticket."
+        intervals [311]:
+            xmin = 727.2
+            xmax = 732.2
+            text = " Giving you the chance to join me on my favorite planet for the biggest mega experiment of them all"
+        intervals [312]:
+            xmin = 732.2
+            xmax = 734.2
+            text = " in the final episode of a summer."
+        intervals [313]:
+            xmin = 735.2
+            xmax = 739.2
+            text = " I'll tell you that usually the Crunch Labs bill boxes where they super fun toy together"
+        intervals [314]:
+            xmin = 739.2
+            xmax = 742.2
+            text = " learning all the juicy physics how they work comes once a month."
+        intervals [315]:
+            xmin = 742.2
+            xmax = 747.2
+            text = " But to coincide with space camp Crunch Labs weekly challenges and videos all summer long"
+        intervals [316]:
+            xmin = 747.2
+            xmax = 750.2
+            text = " We'll ship them to you every week."
+        intervals [317]:
+            xmin = 750.2
+            xmax = 751.2
+            text = " Let's go."
+        intervals [318]:
+            xmin = 751.2
+            xmax = 755.2
+            text = " So if you want an eight week summer camp where you could travel the cosmos while learning to"
+        intervals [319]:
+            xmin = 755.2
+            xmax = 756.2
+            text = " think like an engineer."
+        intervals [320]:
+            xmin = 756.2
+            xmax = 761.2
+            text = " With an absolute zero percent chance of bug bites of poison ivy."
+        intervals [321]:
+            xmin = 761.2
+            xmax = 765.2
+            text = " And the camp Crunch Labs stock comers are one of the limited spots and I'll see you in camp."
+        intervals [322]:
+            xmin = 765.2
+            xmax = 769.2
+            text = " Back at the party it was time to see if I'd actually accomplished turning three finnies and"
+        intervals [323]:
+            xmin = 769.2
+            xmax = 771.2
+            text = " fur of cartoon marbles into real life."
+        intervals [324]:
+            xmin = 771.2
+            xmax = 773.2
+            text = " Starting first with the rockets."
+        intervals [325]:
+            xmin = 773.2
+            xmax = 774.2
+            text = " You guys want to see it."
+        intervals [326]:
+            xmin = 774.2
+            xmax = 782.2
+            text = " You might notice we swapped the rockets out for a pair of 24 volt electric turbines."
+        intervals [327]:
+            xmin = 782.2
+            xmax = 786.2
+            text = " Miss provided two advantages first."
+        intervals [328]:
+            xmin = 786.2
+            xmax = 789.2
+            text = " We learned from testing that big rockets."
+        intervals [329]:
+            xmin = 790.2
+            xmax = 792.2
+            text = " We gave a lot of smoke."
+        intervals [330]:
+            xmin = 792.2
+            xmax = 793.2
+            text = " But what's your breath?"
+        intervals [331]:
+            xmin = 793.2
+            xmax = 796.2
+            text = " Which is not ideal for your lungs or your smoke alarm."
+        intervals [332]:
+            xmin = 796.2
+            xmax = 800.2
+            text = " And second if you post the turbines at the exact natural frequency of the swing."
+        intervals [333]:
+            xmin = 800.2
+            xmax = 807.2
+            text = " Which is exactly what you naturally do when you pump your legs on a swing by the way."
+        intervals [334]:
+            xmin = 807.2
+            xmax = 810.2
+            text = " Then you can add more and more energy to the swing."
+        intervals [335]:
+            xmin = 810.2
+            xmax = 812.2
+            text = " Tell us enough."
+        intervals [336]:
+            xmin = 812.2
+            xmax = 813.2
+            text = " Mark Mark Mark Mark Mark."
+        intervals [337]:
+            xmin = 813.2
+            xmax = 814.2
+            text = " Do clear the bar."
+        intervals [338]:
+            xmin = 814.2
+            xmax = 815.2
+            text = " Yeah!"
+        intervals [339]:
+            xmin = 815.2
+            xmax = 816.2
+            text = " Yeah!"
+        intervals [340]:
+            xmin = 816.2
+            xmax = 817.2
+            text = " Yeah!"
+        intervals [341]:
+            xmin = 817.2
+            xmax = 818.2
+            text = " Yeah!"
+        intervals [342]:
+            xmin = 818.2
+            xmax = 823.2
+            text = " And even with their modifications, he thought suddenly occurred."
+        intervals [343]:
+            xmin = 823.2
+            xmax = 826.2
+            text = " That's a really dangerous."
+        intervals [344]:
+            xmin = 826.2
+            xmax = 828.2
+            text = " My protest fell on deaf ears."
+        intervals [345]:
+            xmin = 828.2
+            xmax = 830.2
+            text = " Safety is for losers."
+        intervals [346]:
+            xmin = 830.2
+            xmax = 831.2
+            text = " Yeah!"
+        intervals [347]:
+            xmin = 831.2
+            xmax = 833.2
+            text = " See you as you with such a tough guy all of a sudden."
+        intervals [348]:
+            xmin = 833.2
+            xmax = 835.2
+            text = " I decided to use Ethan to get a baseline."
+        intervals [349]:
+            xmin = 835.2
+            xmax = 836.2
+            text = " Here we go."
+        intervals [350]:
+            xmin = 836.2
+            xmax = 837.2
+            text = " There we go."
+        intervals [351]:
+            xmin = 837.2
+            xmax = 842.2
+            text = " Just seeing how high you could swing if you just had to rely on your boring old mussels."
+        intervals [352]:
+            xmin = 842.2
+            xmax = 843.2
+            text = " Wow!"
+        intervals [353]:
+            xmin = 843.2
+            xmax = 846.2
+            text = " And the answer was pretty much horizontal."
+        intervals [354]:
+            xmin = 846.2
+            xmax = 848.2
+            text = " Ethan, you're kind of going high."
+        intervals [355]:
+            xmin = 848.2
+            xmax = 849.2
+            text = " I shmied."
+        intervals [356]:
+            xmin = 849.2
+            xmax = 854.2
+            text = " Now, it was my turn to see what would have been if you added 14,000 RPMs of propulsion."
+        intervals [357]:
+            xmin = 854.2
+            xmax = 857.2
+            text = " Okay, are you guys ready?"
+        intervals [358]:
+            xmin = 857.2
+            xmax = 862.2
+            text = " Of course, the number one rule when demoing a potentially disastrous engineering bill that"
+        intervals [359]:
+            xmin = 862.2
+            xmax = 865.2
+            text = " a kid's birthday is that you definitely want to do it before you-"
+        intervals [360]:
+            xmin = 865.2
+            xmax = 867.2
+            text = " I've never done this before."
+        intervals [361]:
+            xmin = 867.2
+            xmax = 869.2
+            text = " What do you mean you've never done this before?"
+        intervals [362]:
+            xmin = 869.2
+            xmax = 870.2
+            text = " How has he been tested?"
+        intervals [363]:
+            xmin = 870.2
+            xmax = 871.2
+            text = " No!"
+        intervals [364]:
+            xmin = 871.2
+            xmax = 872.2
+            text = " No!"
+        intervals [365]:
+            xmin = 872.2
+            xmax = 873.2
+            text = " Oh!"
+        intervals [366]:
+            xmin = 873.2
+            xmax = 874.2
+            text = " Oh!"
+        intervals [367]:
+            xmin = 874.2
+            xmax = 877.2
+            text = " Oh, my God!"
+        intervals [368]:
+            xmin = 877.2
+            xmax = 879.2
+            text = " Oh!"
+        intervals [369]:
+            xmin = 879.2
+            xmax = 881.2
+            text = " Oh!"
+        intervals [370]:
+            xmin = 881.2
+            xmax = 882.2
+            text = " Oh!"
+        intervals [371]:
+            xmin = 882.2
+            xmax = 883.2
+            text = " Oh!"
+        intervals [372]:
+            xmin = 883.2
+            xmax = 884.2
+            text = " Oh!"
+        intervals [373]:
+            xmin = 884.2
+            xmax = 885.2
+            text = " Oh!"
+        intervals [374]:
+            xmin = 885.2
+            xmax = 886.2
+            text = " Oh!"
+        intervals [375]:
+            xmin = 886.2
+            xmax = 891.2
+            text = " And the only feeling better than pulling off a bill like this is how you feel when you finally"
+        intervals [376]:
+            xmin = 891.2
+            xmax = 892.2
+            text = " get off the bill."
+        intervals [377]:
+            xmin = 892.2
+            xmax = 893.2
+            text = " Oh my God!"
+        intervals [378]:
+            xmin = 893.2
+            xmax = 894.2
+            text = " That looks so nauseating."
+        intervals [379]:
+            xmin = 894.2
+            xmax = 895.2
+            text = " Ethan, you're next!"
+        intervals [380]:
+            xmin = 895.2
+            xmax = 896.2
+            text = " Yeah!"
+        intervals [381]:
+            xmin = 896.2
+            xmax = 900.2
+            text = " Before we got to the big roller coaster finale, I decided we should take a little"
+        intervals [382]:
+            xmin = 900.2
+            xmax = 903.2
+            text = " swim to break, starting with some snow cones."
+        intervals [383]:
+            xmin = 903.2
+            xmax = 906.2
+            text = " Who ready for a snowball fight?"
+        intervals [384]:
+            xmin = 906.2
+            xmax = 909.2
+            text = " And some snowballs."
+        intervals [385]:
+            xmin = 909.2
+            xmax = 913.2
+            text = " However, unfortunately for them, certain habits-"
+        intervals [386]:
+            xmin = 913.2
+            xmax = 916.2
+            text = " Yeah!"
+        intervals [387]:
+            xmin = 916.2
+            xmax = 917.2
+            text = " Or hard to kick."
+        intervals [388]:
+            xmin = 917.2
+            xmax = 918.2
+            text = " Oh!"
+        intervals [389]:
+            xmin = 918.2
+            xmax = 919.2
+            text = " Oh!"
+        intervals [390]:
+            xmin = 919.2
+            xmax = 920.2
+            text = " Headshot!"
+        intervals [391]:
+            xmin = 920.2
+            xmax = 921.2
+            text = " Who's next?"
+        intervals [392]:
+            xmin = 921.2
+            xmax = 922.2
+            text = " Oh!"
+        intervals [393]:
+            xmin = 922.2
+            xmax = 923.2
+            text = " That was awesome!"
+        intervals [394]:
+            xmin = 923.2
+            xmax = 924.2
+            text = " All right!"
+        intervals [395]:
+            xmin = 924.2
+            xmax = 925.2
+            text = " Yeah!"
+        intervals [396]:
+            xmin = 925.2
+            xmax = 927.2
+            text = " And then suddenly, and very undeservedly, I might add."
+        intervals [397]:
+            xmin = 927.2
+            xmax = 928.2
+            text = " I wasn't over my head."
+        intervals [398]:
+            xmin = 928.2
+            xmax = 930.2
+            text = " Why is everyone aiming at me?"
+        intervals [399]:
+            xmin = 930.2
+            xmax = 933.2
+            text = " Okay, true?"
+        intervals [400]:
+            xmin = 933.2
+            xmax = 936.2
+            text = " Who wants to go sledding?"
+        intervals [401]:
+            xmin = 936.2
+            xmax = 937.2
+            text = " Yeah!"
+        intervals [402]:
+            xmin = 937.2
+            xmax = 938.2
+            text = " Oh!"
+        intervals [403]:
+            xmin = 938.2
+            xmax = 939.2
+            text = " Oh!"
+        intervals [404]:
+            xmin = 939.2
+            xmax = 940.2
+            text = " Oh!"
+        intervals [405]:
+            xmin = 940.2
+            xmax = 941.2
+            text = " Woo!"
+        intervals [406]:
+            xmin = 941.2
+            xmax = 942.2
+            text = " Don't hide me!"
+        intervals [407]:
+            xmin = 942.2
+            xmax = 943.2
+            text = " I thought that was-"
+        intervals [408]:
+            xmin = 943.2
+            xmax = 945.2
+            text = " Ethan was really encouraging with his friends."
+        intervals [409]:
+            xmin = 945.2
+            xmax = 946.2
+            text = " Soy!"
+        intervals [410]:
+            xmin = 946.2
+            xmax = 948.2
+            text = " That is when he was in the tackle."
+        intervals [411]:
+            xmin = 948.2
+            xmax = 949.2
+            text = " Oh yeah!"
+        intervals [412]:
+            xmin = 949.2
+            xmax = 950.2
+            text = " Go back!"
+        intervals [413]:
+            xmin = 950.2
+            xmax = 953.2
+            text = " After we had our filled with snowballs and sledding,"
+        intervals [414]:
+            xmin = 954.2
+            xmax = 956.2
+            text = " it was time to test out the final and most audacious,"
+        intervals [415]:
+            xmin = 956.2
+            xmax = 958.2
+            text = " Phoenies and Furbin real life engineering build."
+        intervals [416]:
+            xmin = 958.2
+            xmax = 962.2
+            text = " Now up the stakes, Ethan reminded me what their coaster was actually like in the show."
+        intervals [417]:
+            xmin = 962.2
+            xmax = 965.2
+            text = " There was like snagged and like a car wash and a bunch of stuff."
+        intervals [418]:
+            xmin = 965.2
+            xmax = 967.2
+            text = " So if this is really Phoenies Furbin-"
+        intervals [419]:
+            xmin = 967.2
+            xmax = 968.2
+            text = " It would be a triangle."
+        intervals [420]:
+            xmin = 968.2
+            xmax = 969.2
+            text = " Oh yeah!"
+        intervals [421]:
+            xmin = 969.2
+            xmax = 971.2
+            text = " If this was Phoenies Furbin, it would be a triangle fair fair."
+        intervals [422]:
+            xmin = 971.2
+            xmax = 973.2
+            text = " But I wasn't going to make Ethan ride solo."
+        intervals [423]:
+            xmin = 973.2
+            xmax = 975.2
+            text = " So I had no choice but to buckle up."
+        intervals [424]:
+            xmin = 975.2
+            xmax = 977.2
+            text = " I've never met Phoenies and Furbin."
+        intervals [425]:
+            xmin = 977.2
+            xmax = 978.2
+            text = " Oh yeah!"
+        intervals [426]:
+            xmin = 978.2
+            xmax = 979.2
+            text = " This was Phoenies Furbin."
+        intervals [427]:
+            xmin = 979.2
+            xmax = 981.2
+            text = " So I had no choice but to buckle up."
+        intervals [428]:
+            xmin = 981.2
+            xmax = 984.2
+            text = " I've never met Ethan or you know this."
+        intervals [429]:
+            xmin = 984.2
+            xmax = 985.2
+            text = " Three!"
+        intervals [430]:
+            xmin = 985.2
+            xmax = 986.2
+            text = " One! Two!"
+        intervals [431]:
+            xmin = 986.2
+            xmax = 987.2
+            text = " One!"
+        intervals [432]:
+            xmin = 987.2
+            xmax = 988.2
+            text = " Go!"
+        intervals [433]:
+            xmin = 988.2
+            xmax = 989.2
+            text = " No!"
+        intervals [434]:
+            xmin = 989.2
+            xmax = 990.2
+            text = " No!"
+        intervals [435]:
+            xmin = 990.2
+            xmax = 991.2
+            text = " No!"
+        intervals [436]:
+            xmin = 991.2
+            xmax = 992.2
+            text = " No!"
+        intervals [437]:
+            xmin = 992.2
+            xmax = 993.2
+            text = " No!"
+        intervals [438]:
+            xmin = 993.2
+            xmax = 994.2
+            text = " No!"
+        intervals [439]:
+            xmin = 994.2
+            xmax = 995.2
+            text = " No!"
+        intervals [440]:
+            xmin = 995.2
+            xmax = 996.2
+            text = " No!"
+        intervals [441]:
+            xmin = 996.2
+            xmax = 997.2
+            text = " No!"
+        intervals [442]:
+            xmin = 997.2
+            xmax = 998.2
+            text = " No!"
+        intervals [443]:
+            xmin = 998.2
+            xmax = 999.2
+            text = " No!"
+        intervals [444]:
+            xmin = 999.2
+            xmax = 1000.2
+            text = " No!"
+        intervals [445]:
+            xmin = 1000.2
+            xmax = 1001.2
+            text = " No!"
+        intervals [446]:
+            xmin = 1001.2
+            xmax = 1003.2
+            text = " And while the stakes were fake,"
+        intervals [447]:
+            xmin = 1003.2
+            xmax = 1005.2
+            text = " the mud was real."
+        intervals [448]:
+            xmin = 1005.2
+            xmax = 1006.2
+            text = " No!"
+        intervals [449]:
+            xmin = 1006.2
+            xmax = 1007.2
+            text = " No!"
+        intervals [450]:
+            xmin = 1007.2
+            xmax = 1008.2
+            text = " No!"
+        intervals [451]:
+            xmin = 1008.2
+            xmax = 1009.2
+            text = " No!"
+        intervals [452]:
+            xmin = 1010.2
+            xmax = 1011.2
+            text = " That's one of the stuff of course."
+        intervals [453]:
+            xmin = 1011.2
+            xmax = 1014.2
+            text = " So Mr. Rizzoff in Science Bob's 20 mile an hour car was."
+        intervals [454]:
+            xmin = 1014.2
+            xmax = 1015.2
+            text = " No!"
+        intervals [455]:
+            xmin = 1015.2
+            xmax = 1016.2
+            text = " No!"
+        intervals [456]:
+            xmin = 1016.2
+            xmax = 1017.2
+            text = " No!"
+        intervals [457]:
+            xmin = 1017.2
+            xmax = 1018.2
+            text = " No!"
+        intervals [458]:
+            xmin = 1018.2
+            xmax = 1019.2
+            text = " No!"
+        intervals [459]:
+            xmin = 1019.2
+            xmax = 1020.2
+            text = " No!"
+        intervals [460]:
+            xmin = 1020.2
+            xmax = 1021.2
+            text = " No!"
+        intervals [461]:
+            xmin = 1021.2
+            xmax = 1025.2
+            text = " For pulling to a halt in front of a massive blow dryer so we could try off."
+        intervals [462]:
+            xmin = 1025.2
+            xmax = 1026.2
+            text = " Nice and clean."
+        intervals [463]:
+            xmin = 1026.2
+            xmax = 1027.2
+            text = " Oh!"
+        intervals [464]:
+            xmin = 1027.2
+            xmax = 1028.2
+            text = " Oh!"
+        intervals [465]:
+            xmin = 1028.2
+            xmax = 1030.2
+            text = " You won't have to shower tonight, at least."
+        intervals [466]:
+            xmin = 1030.2
+            xmax = 1032.2
+            text = " I doubt that, but um."
+        intervals [467]:
+            xmin = 1032.2
+            xmax = 1035.2
+            text = " So now that all three of our mentions were tested and Ethan approved."
+        intervals [468]:
+            xmin = 1035.2
+            xmax = 1036.2
+            text = " Thank you."
+        intervals [469]:
+            xmin = 1036.2
+            xmax = 1041.2
+            text = " It was time to give Ethan a well deserved 15 second party by post."
+        intervals [470]:
+            xmin = 1041.2
+            xmax = 1045.2
+            text = " Music"
+        intervals [471]:
+            xmin = 1045.2
+            xmax = 1053.2
+            text = " Music"
+        intervals [472]:
+            xmin = 1053.2
+            xmax = 1055.2
+            text = " Ethan, now I'll have a confession."
+        intervals [473]:
+            xmin = 1055.2
+            xmax = 1058.2
+            text = " I didn't pull this off on my own. I had a little help."
+        intervals [474]:
+            xmin = 1058.2
+            xmax = 1059.2
+            text = " What do you mean?"
+        intervals [475]:
+            xmin = 1059.2
+            xmax = 1061.2
+            text = " Hey, friendies!"
+        intervals [476]:
+            xmin = 1061.2
+            xmax = 1063.2
+            text = " Look what we did!"
+        intervals [477]:
+            xmin = 1064.2
+            xmax = 1068.2
+            text = " Well, you know for not relying on Cartoon physics, that looks so fun."
+        intervals [478]:
+            xmin = 1068.2
+            xmax = 1070.2
+            text = " Unhappy at all worked out for you."
+        intervals [479]:
+            xmin = 1070.2
+            xmax = 1072.2
+            text = " Now for the elephant toothpaste experiment."
+        intervals [480]:
+            xmin = 1072.2
+            xmax = 1075.2
+            text = " Well make sure firm isn't too close."
+        intervals [481]:
+            xmin = 1075.2
+            xmax = 1077.2
+            text = " Ha ha, oops."
+        intervals [482]:
+            xmin = 1077.2
+            xmax = 1080.2
+            text = " Wow, it looks like you got a lot of cleanup on your hand."
+        intervals [483]:
+            xmin = 1080.2
+            xmax = 1082.2
+            text = " You want us to help?"
+        intervals [484]:
+            xmin = 1082.2
+            xmax = 1085.2
+            text = " Actually our cleanup usually takes care of itself."
+        intervals [485]:
+            xmin = 1089.2
+            xmax = 1090.2
+            text = " See?"
+        intervals [486]:
+            xmin = 1090.2
+            xmax = 1091.2
+            text = " No must, no fuss."
+        intervals [487]:
+            xmin = 1091.2
+            xmax = 1092.2
+            text = " Bye, Mark."
+        intervals [488]:
+            xmin = 1093.2
+            xmax = 1096.2
+            text = " Sorry, Ethan, but that trick will not work in real life."
+        intervals [489]:
+            xmin = 1096.2
+            xmax = 1097.2
+            text = " Am I cleaning up?"
+        intervals [490]:
+            xmin = 1097.2
+            xmax = 1099.2
+            text = " A grab a shovel, let's clean this up."
+        intervals [491]:
+            xmin = 1099.2
+            xmax = 1100.2
+            text = " Oh my god."
+        intervals [492]:
+            xmin = 1100.2
+            xmax = 1101.2
+            text = " Woo."
+        intervals [493]:
+            xmin = 1101.2
+            xmax = 1103.2
+            text = " Ha ha ha."
+        intervals [494]:
+            xmin = 1103.2
+            xmax = 1106.2
+            text = " Now that Ethan's been given the best birthday ever,"
+        intervals [495]:
+            xmin = 1106.2
+            xmax = 1108.2
+            text = " why not join us for the best summer-end."
+        intervals [496]:
+            xmin = 1108.2
+            xmax = 1110.2
+            text = " Space Camp Crunchy-Lat."
+        intervals [497]:
+            xmin = 1110.2
+            xmax = 1114.2
+            text = " Eight-week virtual space theme summer camp designed to help fight that summer"
+        intervals [498]:
+            xmin = 1114.2
+            xmax = 1115.2
+            text = " brain drainage."
+        intervals [499]:
+            xmin = 1115.2
+            xmax = 1118.2
+            text = " Since you got canned crunch locks off top of parents and a sort of a little bit of"
+        intervals [500]:
+            xmin = 1118.2
+            xmax = 1120.2
+            text = " spots, it'll snow with camp."

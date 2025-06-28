@@ -1,0 +1,3002 @@
+[
+  {
+    "index": 1,
+    "start": 0.0,
+    "end": 3.56,
+    "text": " This is the most epic birthday party ever!"
+  },
+  {
+    "index": 2,
+    "start": 3.56,
+    "end": 6.6000000000000005,
+    "text": " It's got a jet power tie-to-swing, a custom-built roller coaster,"
+  },
+  {
+    "index": 3,
+    "start": 6.6000000000000005,
+    "end": 9.28,
+    "text": " and an indoor sledding hill with axle-slap!"
+  },
+  {
+    "index": 4,
+    "start": 9.28,
+    "end": 10.56,
+    "text": " Oh!"
+  },
+  {
+    "index": 5,
+    "start": 10.56,
+    "end": 13.96,
+    "text": " And I said all this up, surprised the world's most deserving kids."
+  },
+  {
+    "index": 6,
+    "start": 13.96,
+    "end": 15.72,
+    "text": " Safety is for losers!"
+  },
+  {
+    "index": 7,
+    "start": 15.72,
+    "end": 16.96,
+    "text": " Yeah!"
+  },
+  {
+    "index": 8,
+    "start": 16.96,
+    "end": 19.76,
+    "text": " I'm importantly three months ago, one of this existed,"
+  },
+  {
+    "index": 9,
+    "start": 19.76,
+    "end": 21.76,
+    "text": " because that's when I reached out to a friend of mine"
+  },
+  {
+    "index": 10,
+    "start": 21.76,
+    "end": 25.64,
+    "text": " who many considered to be the greatest engineer this world's ever known."
+  },
+  {
+    "index": 11,
+    "start": 25.64,
+    "end": 26.8,
+    "text": " Oh, hey, Mark!"
+  },
+  {
+    "index": 12,
+    "start": 26.88,
+    "end": 27.720000000000002,
+    "text": " Phidias!"
+  },
+  {
+    "index": 13,
+    "start": 27.720000000000002,
+    "end": 30.240000000000002,
+    "text": " I'm planning on throwing the world's greatest birthday party"
+  },
+  {
+    "index": 14,
+    "start": 30.240000000000002,
+    "end": 31.36,
+    "text": " for this kid named Ethan."
+  },
+  {
+    "index": 15,
+    "start": 31.36,
+    "end": 32.4,
+    "text": " I can explain later."
+  },
+  {
+    "index": 16,
+    "start": 32.4,
+    "end": 35.16,
+    "text": " For now, I need you know what you've got in the idea."
+  },
+  {
+    "index": 17,
+    "start": 35.16,
+    "end": 37.4,
+    "text": " Oh, that's a great question, Mark."
+  },
+  {
+    "index": 18,
+    "start": 37.4,
+    "end": 41.480000000000004,
+    "text": " One time, Furb and I made the world's first rocket-powered tire-swing,"
+  },
+  {
+    "index": 19,
+    "start": 41.480000000000004,
+    "end": 44.2,
+    "text": " you'll just need a tire, you're standard-elemon parts,"
+  },
+  {
+    "index": 20,
+    "start": 44.2,
+    "end": 46.2,
+    "text": " don't forget your high-powered rockets."
+  },
+  {
+    "index": 21,
+    "start": 46.2,
+    "end": 49.56,
+    "text": " Oh, and as you can see, as long as you don't remove this screw,"
+  },
+  {
+    "index": 22,
+    "start": 49.56,
+    "end": 50.24,
+    "text": " you'll be fine."
+  },
+  {
+    "index": 23,
+    "start": 50.24,
+    "end": 53.6,
+    "text": " You do realize that brings like seven laws of physics, right?"
+  },
+  {
+    "index": 24,
+    "start": 53.6,
+    "end": 55.8,
+    "text": " Well, we're working with cartoon physics,"
+  },
+  {
+    "index": 25,
+    "start": 55.8,
+    "end": 57.559999999999995,
+    "text": " but I trust you can figure it out."
+  },
+  {
+    "index": 26,
+    "start": 57.559999999999995,
+    "end": 59.8,
+    "text": " In the meantime, I was thinking Furb and I"
+  },
+  {
+    "index": 27,
+    "start": 59.8,
+    "end": 61.64,
+    "text": " could take a crack at your world record"
+  },
+  {
+    "index": 28,
+    "start": 61.64,
+    "end": 64.32,
+    "text": " breaking elephant toothpaste experiment."
+  },
+  {
+    "index": 29,
+    "start": 64.32,
+    "end": 67.28,
+    "text": " Ooh, why the heck would we both have our work cut out for us?"
+  },
+  {
+    "index": 30,
+    "start": 67.28,
+    "end": 68.47999999999999,
+    "text": " I'll talk to you later."
+  },
+  {
+    "index": 31,
+    "start": 68.47999999999999,
+    "end": 70.08,
+    "text": " Now, I knew for personal experience"
+  },
+  {
+    "index": 32,
+    "start": 70.08,
+    "end": 72.84,
+    "text": " if you can pull off a finies-sum Furb invention in real life,"
+  },
+  {
+    "index": 33,
+    "start": 72.84,
+    "end": 74.84,
+    "text": " it makes for a really epic party"
+  },
+  {
+    "index": 34,
+    "start": 74.84,
+    "end": 77.08,
+    "text": " with 15 tons of jello to spare."
+  },
+  {
+    "index": 35,
+    "start": 77.08,
+    "end": 79.88,
+    "text": " But the problem here was their rocket-powered tire-swing,"
+  },
+  {
+    "index": 36,
+    "start": 79.88,
+    "end": 83.72,
+    "text": " leaned very heavily on the creative boundaries of cartoon physics"
+  },
+  {
+    "index": 37,
+    "start": 83.72,
+    "end": 86.92,
+    "text": " with estimated peak forces that would be 35 times"
+  },
+  {
+    "index": 38,
+    "start": 86.92,
+    "end": 88.28,
+    "text": " when a human could endure."
+  },
+  {
+    "index": 39,
+    "start": 88.28,
+    "end": 89.24,
+    "text": " So it was the first pass."
+  },
+  {
+    "index": 40,
+    "start": 89.24,
+    "end": 93.03999999999999,
+    "text": " I just let two rockets with 2,500 Newton-second total impulse"
+  },
+  {
+    "index": 41,
+    "start": 93.03999999999999,
+    "end": 95.48,
+    "text": " to a single chain mounted to a tire-swing,"
+  },
+  {
+    "index": 42,
+    "start": 95.48,
+    "end": 98.76,
+    "text": " and generously gave our 180-pound crash test dummy Newton"
+  },
+  {
+    "index": 43,
+    "start": 98.76,
+    "end": 100.72,
+    "text": " first dibs on the ride of his life."
+  },
+  {
+    "index": 44,
+    "start": 100.72,
+    "end": 102.36,
+    "text": " Initiator is on."
+  },
+  {
+    "index": 45,
+    "start": 102.36,
+    "end": 104.16,
+    "text": " This is the test my hypothesis."
+  },
+  {
+    "index": 46,
+    "start": 104.16,
+    "end": 106.6,
+    "text": " Why finies-sum Furb is an animated show."
+  },
+  {
+    "index": 47,
+    "start": 106.6,
+    "end": 108.36,
+    "text": " Three, two, one."
+  },
+  {
+    "index": 48,
+    "start": 108.36,
+    "end": 109.2,
+    "text": " One."
+  },
+  {
+    "index": 49,
+    "start": 109.2,
+    "end": 110.2,
+    "text": " One."
+  },
+  {
+    "index": 50,
+    "start": 110.2,
+    "end": 111.2,
+    "text": " One."
+  },
+  {
+    "index": 51,
+    "start": 111.2,
+    "end": 112.2,
+    "text": " One."
+  },
+  {
+    "index": 52,
+    "start": 112.2,
+    "end": 113.2,
+    "text": " One."
+  },
+  {
+    "index": 53,
+    "start": 113.2,
+    "end": 114.2,
+    "text": " One."
+  },
+  {
+    "index": 54,
+    "start": 114.2,
+    "end": 120.2,
+    "text": " And after the smoke cleared, we lost our fans."
+  },
+  {
+    "index": 55,
+    "start": 120.2,
+    "end": 123.44,
+    "text": " That was the most powerful, depancing in history."
+  },
+  {
+    "index": 56,
+    "start": 123.44,
+    "end": 125.44,
+    "text": " The single chain is going to make it tough."
+  },
+  {
+    "index": 57,
+    "start": 125.44,
+    "end": 127.48,
+    "text": " So to keep us from immediately spinning out of control,"
+  },
+  {
+    "index": 58,
+    "start": 127.48,
+    "end": 130.48000000000002,
+    "text": " and potentially losing all our dignity in the process,"
+  },
+  {
+    "index": 59,
+    "start": 130.48000000000002,
+    "end": 132.6,
+    "text": " we doubled the chains for more stability."
+  },
+  {
+    "index": 60,
+    "start": 132.6,
+    "end": 133.6,
+    "text": " Here we go."
+  },
+  {
+    "index": 61,
+    "start": 133.6,
+    "end": 135.6,
+    "text": " And this time, let it rip."
+  },
+  {
+    "index": 62,
+    "start": 135.6,
+    "end": 142.6,
+    "text": " The exact same thing happened."
+  },
+  {
+    "index": 63,
+    "start": 142.6,
+    "end": 143.6,
+    "text": " No."
+  },
+  {
+    "index": 64,
+    "start": 143.6,
+    "end": 148.6,
+    "text": " He can't keep his clothes on."
+  },
+  {
+    "index": 65,
+    "start": 148.6,
+    "end": 150.6,
+    "text": " I think only one of them ignited."
+  },
+  {
+    "index": 66,
+    "start": 150.6,
+    "end": 152.6,
+    "text": " And a high-speed camera replay revealed,"
+  },
+  {
+    "index": 67,
+    "start": 152.6,
+    "end": 154.6,
+    "text": " that's exactly what happened."
+  },
+  {
+    "index": 68,
+    "start": 154.6,
+    "end": 156.6,
+    "text": " So once we fix the fault to the ignition wire,"
+  },
+  {
+    "index": 69,
+    "start": 156.6,
+    "end": 157.6,
+    "text": " we try it again."
+  },
+  {
+    "index": 70,
+    "start": 157.6,
+    "end": 158.6,
+    "text": " Go!"
+  },
+  {
+    "index": 71,
+    "start": 158.6,
+    "end": 159.6,
+    "text": " No!"
+  },
+  {
+    "index": 72,
+    "start": 159.6,
+    "end": 161.6,
+    "text": " I can't!"
+  },
+  {
+    "index": 73,
+    "start": 161.6,
+    "end": 163.6,
+    "text": " How's he Newton?"
+  },
+  {
+    "index": 74,
+    "start": 164.6,
+    "end": 166.6,
+    "text": " Which I'll remind you, ways more than I do."
+  },
+  {
+    "index": 75,
+    "start": 166.6,
+    "end": 168.6,
+    "text": " To launch 10 feet into the air,"
+  },
+  {
+    "index": 76,
+    "start": 168.6,
+    "end": 170.6,
+    "text": " completing the stylish dismount."
+  },
+  {
+    "index": 77,
+    "start": 170.6,
+    "end": 172.6,
+    "text": " That was definitely both that time."
+  },
+  {
+    "index": 78,
+    "start": 172.6,
+    "end": 174.6,
+    "text": " It's Tuesday, Ron!"
+  },
+  {
+    "index": 79,
+    "start": 174.6,
+    "end": 175.6,
+    "text": " That's a W."
+  },
+  {
+    "index": 80,
+    "start": 175.6,
+    "end": 179.6,
+    "text": " And while the dual chain configuration did provide a lot more stability,"
+  },
+  {
+    "index": 81,
+    "start": 179.6,
+    "end": 181.6,
+    "text": " the slow move revealed it was really no way"
+  },
+  {
+    "index": 82,
+    "start": 181.6,
+    "end": 184.6,
+    "text": " to reliably keep the thrust factor aligned in the best direction"
+  },
+  {
+    "index": 83,
+    "start": 184.6,
+    "end": 185.6,
+    "text": " to loop us around."
+  },
+  {
+    "index": 84,
+    "start": 185.6,
+    "end": 186.6,
+    "text": " This is too squirrely."
+  },
+  {
+    "index": 85,
+    "start": 186.6,
+    "end": 188.6,
+    "text": " We need to go to rigid chains."
+  },
+  {
+    "index": 86,
+    "start": 188.6,
+    "end": 191.6,
+    "text": " To fix that, we swapped the two chains with two solid rods."
+  },
+  {
+    "index": 87,
+    "start": 191.6,
+    "end": 192.6,
+    "text": " Igniteers hot."
+  },
+  {
+    "index": 88,
+    "start": 192.6,
+    "end": 195.6,
+    "text": " Three, two, one."
+  },
+  {
+    "index": 89,
+    "start": 195.6,
+    "end": 196.6,
+    "text": " Go!"
+  },
+  {
+    "index": 90,
+    "start": 196.6,
+    "end": 197.6,
+    "text": " Go!"
+  },
+  {
+    "index": 91,
+    "start": 197.6,
+    "end": 198.6,
+    "text": " Go!"
+  },
+  {
+    "index": 92,
+    "start": 198.6,
+    "end": 199.6,
+    "text": " Go!"
+  },
+  {
+    "index": 93,
+    "start": 199.6,
+    "end": 200.6,
+    "text": " Go!"
+  },
+  {
+    "index": 94,
+    "start": 200.6,
+    "end": 201.6,
+    "text": " Go!"
+  },
+  {
+    "index": 95,
+    "start": 201.6,
+    "end": 204.6,
+    "text": " You can see here, the rocket forces were so high."
+  },
+  {
+    "index": 96,
+    "start": 204.6,
+    "end": 208.6,
+    "text": " It ripped our entire half-tun steel swing structure out from the stakes,"
+  },
+  {
+    "index": 97,
+    "start": 208.6,
+    "end": 210.6,
+    "text": " anchoring it into the ground."
+  },
+  {
+    "index": 98,
+    "start": 210.6,
+    "end": 211.6,
+    "text": " That's the-"
+  },
+  {
+    "index": 99,
+    "start": 211.6,
+    "end": 213.6,
+    "text": " You got-you got-"
+  },
+  {
+    "index": 100,
+    "start": 213.6,
+    "end": 215.6,
+    "text": " Alright, well that's a successful rocket swing."
+  },
+  {
+    "index": 101,
+    "start": 215.6,
+    "end": 218.6,
+    "text": " Now we just got to figure out how to make it slightly more safe."
+  },
+  {
+    "index": 102,
+    "start": 218.6,
+    "end": 220.6,
+    "text": " So we were off to a promising start."
+  },
+  {
+    "index": 103,
+    "start": 220.6,
+    "end": 222.6,
+    "text": " We just needed a little more inspiration."
+  },
+  {
+    "index": 104,
+    "start": 222.6,
+    "end": 223.6,
+    "text": " Hey, Mark, how's the build?"
+  },
+  {
+    "index": 105,
+    "start": 223.6,
+    "end": 227.6,
+    "text": " It's got a little work left, but it's getting less lethal by the minute."
+  },
+  {
+    "index": 106,
+    "start": 227.6,
+    "end": 230.6,
+    "text": " I do feel, though, that the party needs a little something more."
+  },
+  {
+    "index": 107,
+    "start": 230.6,
+    "end": 231.6,
+    "text": " I've got it."
+  },
+  {
+    "index": 108,
+    "start": 231.6,
+    "end": 236.6,
+    "text": " How about your build on my backyard roller culture like the one we made at the beginning of summer?"
+  },
+  {
+    "index": 109,
+    "start": 236.6,
+    "end": 241.6,
+    "text": " Feel tracks, cards, with seat belts, and of course be sure to add extra thermal shielding"
+  },
+  {
+    "index": 110,
+    "start": 241.6,
+    "end": 243.6,
+    "text": " for when you re-enter the atmosphere."
+  },
+  {
+    "index": 111,
+    "start": 243.6,
+    "end": 246.6,
+    "text": " Aren't you a little young to be building things that require extra thermal shielding"
+  },
+  {
+    "index": 112,
+    "start": 246.6,
+    "end": 248.6,
+    "text": " for when they re-enter the atmosphere?"
+  },
+  {
+    "index": 113,
+    "start": 248.6,
+    "end": 249.6,
+    "text": " Yes, yes I am."
+  },
+  {
+    "index": 114,
+    "start": 249.6,
+    "end": 250.6,
+    "text": " Well, the block."
+  },
+  {
+    "index": 115,
+    "start": 250.6,
+    "end": 251.6,
+    "text": " Oh, gotta go."
+  },
+  {
+    "index": 116,
+    "start": 251.6,
+    "end": 252.6,
+    "text": " Herb just arrived with."
+  },
+  {
+    "index": 117,
+    "start": 252.6,
+    "end": 254.6,
+    "text": " Oh, our store of the show."
+  },
+  {
+    "index": 118,
+    "start": 254.6,
+    "end": 257.6,
+    "text": " No, Phineas, you don't need a tiny-"
+  },
+  {
+    "index": 119,
+    "start": 257.6,
+    "end": 258.6,
+    "text": " Tile it, Mark."
+  },
+  {
+    "index": 120,
+    "start": 258.6,
+    "end": 260.6,
+    "text": " Oh, that's gonna get messy."
+  },
+  {
+    "index": 121,
+    "start": 260.6,
+    "end": 264.6,
+    "text": " Now the good thing about roller coasters is unlike two story tall rock-a-power tire swings."
+  },
+  {
+    "index": 122,
+    "start": 264.6,
+    "end": 266.6,
+    "text": " Roller coasters actually exist."
+  },
+  {
+    "index": 123,
+    "start": 266.6,
+    "end": 271.6,
+    "text": " So I did what any self-respecting engineer would do as a first step and conducted some tedious research."
+  },
+  {
+    "index": 124,
+    "start": 271.6,
+    "end": 276.6,
+    "text": " Now I knew that finding the perfect Goldilocks zone for our birthday guests would be critical."
+  },
+  {
+    "index": 125,
+    "start": 276.6,
+    "end": 283.6,
+    "text": " Not so extreme, it sends him back to the hospital, but also not so boring, it feels like watching"
+  },
+  {
+    "index": 126,
+    "start": 283.6,
+    "end": 284.6,
+    "text": " William Austin video."
+  },
+  {
+    "index": 127,
+    "start": 284.6,
+    "end": 289.6,
+    "text": " So armed with all the learnings from our TES research, we set up to build the perfect indoor roller"
+  },
+  {
+    "index": 128,
+    "start": 289.6,
+    "end": 290.6,
+    "text": " coaster for my buddy Ethan."
+  },
+  {
+    "index": 129,
+    "start": 290.6,
+    "end": 291.6,
+    "text": " By the way, this is Ethan."
+  },
+  {
+    "index": 130,
+    "start": 291.6,
+    "end": 296.36,
+    "text": " And when you should know about Ethan, is he was recently diagnosed with a rare and severely"
+  },
+  {
+    "index": 131,
+    "start": 296.36,
+    "end": 300.8,
+    "text": " debilitating neurological condition that left him bedridden, causing him to miss most of his"
+  },
+  {
+    "index": 132,
+    "start": 300.8,
+    "end": 301.8,
+    "text": " school year."
+  },
+  {
+    "index": 133,
+    "start": 301.8,
+    "end": 305.6,
+    "text": " In fact, his pain in nausea was so severe, he couldn't even walk from one room to another."
+  },
+  {
+    "index": 134,
+    "start": 305.6,
+    "end": 308.6,
+    "text": " Other thing you should know about Ethan is he's incredibly resilient."
+  },
+  {
+    "index": 135,
+    "start": 308.6,
+    "end": 311.6,
+    "text": " And after a full year, he'd recovered enough to make his way back to school."
+  },
+  {
+    "index": 136,
+    "start": 311.6,
+    "end": 312.6,
+    "text": " And his luck would have it."
+  },
+  {
+    "index": 137,
+    "start": 312.6,
+    "end": 318.08000000000004,
+    "text": " He not only had a birthday party coming up, but he was also a massive finise in Furb fan, which was"
+  },
+  {
+    "index": 138,
+    "start": 318.08000000000004,
+    "end": 322.08000000000004,
+    "text": " perfect because we had our first prototype of the world's greatest finise in Furb indoor roller"
+  },
+  {
+    "index": 139,
+    "start": 322.08000000000004,
+    "end": 323.08000000000004,
+    "text": " coaster ready to test."
+  },
+  {
+    "index": 140,
+    "start": 323.08000000000004,
+    "end": 325.08000000000004,
+    "text": " OK, man, here we go!"
+  },
+  {
+    "index": 141,
+    "start": 325.08000000000004,
+    "end": 327.08000000000004,
+    "text": " Let's go, let's go!"
+  },
+  {
+    "index": 142,
+    "start": 327.08000000000004,
+    "end": 330.08000000000004,
+    "text": " Oh yeah!"
+  },
+  {
+    "index": 143,
+    "start": 330.08000000000004,
+    "end": 332.6,
+    "text": " I think we're going to have to check our calculations."
+  },
+  {
+    "index": 144,
+    "start": 332.6,
+    "end": 335.72,
+    "text": " So I called up some of my buddies who are really good at this."
+  },
+  {
+    "index": 145,
+    "start": 335.72,
+    "end": 339.52000000000004,
+    "text": " And they introduced me to the efficiency of their calculations, why introduce them, to the"
+  },
+  {
+    "index": 146,
+    "start": 339.52000000000004,
+    "end": 349.88,
+    "text": " efficiency of a 10 second build montage."
+  },
+  {
+    "index": 147,
+    "start": 349.88,
+    "end": 354.24,
+    "text": " And while not yet perfect, we were certainly on the right track."
+  },
+  {
+    "index": 148,
+    "start": 354.24,
+    "end": 355.96000000000004,
+    "text": " Now we just needed a few more of them."
+  },
+  {
+    "index": 149,
+    "start": 355.96000000000004,
+    "end": 356.96000000000004,
+    "text": " Good."
+  },
+  {
+    "index": 150,
+    "start": 356.96000000000004,
+    "end": 359.48,
+    "text": " And things were coming along great, but if I was going to get approval from the world's"
+  },
+  {
+    "index": 151,
+    "start": 359.48,
+    "end": 362.48,
+    "text": " most creative engineer, it would need a little something extra."
+  },
+  {
+    "index": 152,
+    "start": 362.48,
+    "end": 364.92,
+    "text": " So I took a closer look at their original coaster."
+  },
+  {
+    "index": 153,
+    "start": 364.92,
+    "end": 368.8,
+    "text": " And while we definitely can't send even to France, we definitely could send them through"
+  },
+  {
+    "index": 154,
+    "start": 368.8,
+    "end": 373.28000000000003,
+    "text": " a steak drop, a mud bucket, and a full-on car wash."
+  },
+  {
+    "index": 155,
+    "start": 373.28000000000003,
+    "end": 378.28000000000003,
+    "text": " Snakes on a train in 321."
+  },
+  {
+    "index": 156,
+    "start": 378.28000000000003,
+    "end": 379.28000000000003,
+    "text": " Snakes?"
+  },
+  {
+    "index": 157,
+    "start": 379.28000000000003,
+    "end": 383.12,
+    "text": " This build was elegant."
+  },
+  {
+    "index": 158,
+    "start": 383.12,
+    "end": 387.48,
+    "text": " Our snakes bearing beautifully with a catapult calibrated mud bath."
+  },
+  {
+    "index": 159,
+    "start": 387.48,
+    "end": 388.48,
+    "text": " Ah!"
+  },
+  {
+    "index": 160,
+    "start": 388.48,
+    "end": 389.96000000000004,
+    "text": " That's why we're safety classes."
+  },
+  {
+    "index": 161,
+    "start": 389.96000000000004,
+    "end": 391.36,
+    "text": " Why are you smiling so much?"
+  },
+  {
+    "index": 162,
+    "start": 391.36,
+    "end": 392.36,
+    "text": " You're ready?"
+  },
+  {
+    "index": 163,
+    "start": 392.36,
+    "end": 393.36,
+    "text": " Ah!"
+  },
+  {
+    "index": 164,
+    "start": 393.36,
+    "end": 399.36,
+    "text": " Followed by a cleansing soap scrub, infused with eucalyptus soil, and 40 miles an hour."
+  },
+  {
+    "index": 165,
+    "start": 399.36,
+    "end": 401.36,
+    "text": " That out of debt."
+  },
+  {
+    "index": 166,
+    "start": 401.36,
+    "end": 406.76,
+    "text": " They're needed bit of a rinse off, and finally air drying with a gentle breeze."
+  },
+  {
+    "index": 167,
+    "start": 406.76,
+    "end": 407.76,
+    "text": " OK."
+  },
+  {
+    "index": 168,
+    "start": 407.76,
+    "end": 408.76,
+    "text": " OK."
+  },
+  {
+    "index": 169,
+    "start": 408.76,
+    "end": 409.76,
+    "text": " Clean as a whistle."
+  },
+  {
+    "index": 170,
+    "start": 409.76,
+    "end": 410.76,
+    "text": " Oh, good."
+  },
+  {
+    "index": 171,
+    "start": 410.76,
+    "end": 414.92,
+    "text": " So now it's both the roller coaster and the rocket's been pretty much ready to go."
+  },
+  {
+    "index": 172,
+    "start": 414.92,
+    "end": 415.92,
+    "text": " I opted for a check-in."
+  },
+  {
+    "index": 173,
+    "start": 415.92,
+    "end": 417.28000000000003,
+    "text": " Hey, Mark, how's it going?"
+  },
+  {
+    "index": 174,
+    "start": 417.28000000000003,
+    "end": 419.56,
+    "text": " I mean, it's getting there."
+  },
+  {
+    "index": 175,
+    "start": 419.56,
+    "end": 422.56,
+    "text": " But how do we really make this the best birthday party ever?"
+  },
+  {
+    "index": 176,
+    "start": 422.56,
+    "end": 423.92,
+    "text": " How about..."
+  },
+  {
+    "index": 177,
+    "start": 423.92,
+    "end": 424.92,
+    "text": " Swinter."
+  },
+  {
+    "index": 178,
+    "start": 424.92,
+    "end": 426.64,
+    "text": " It's like summer, in winter."
+  },
+  {
+    "index": 179,
+    "start": 426.64,
+    "end": 429.92,
+    "text": " All you need is a snilco maker and a bunch of jet-powered fans."
+  },
+  {
+    "index": 180,
+    "start": 429.92,
+    "end": 431.8,
+    "text": " But be sure to keep it windows closed."
+  },
+  {
+    "index": 181,
+    "start": 431.8,
+    "end": 434.4,
+    "text": " You really don't want to bring Swinter inside your house."
+  },
+  {
+    "index": 182,
+    "start": 434.4,
+    "end": 435.4,
+    "text": " The news?"
+  },
+  {
+    "index": 183,
+    "start": 435.4,
+    "end": 437.16,
+    "text": " You pointed head of genius."
+  },
+  {
+    "index": 184,
+    "start": 437.16,
+    "end": 438.96,
+    "text": " I think you're onto something."
+  },
+  {
+    "index": 185,
+    "start": 438.96,
+    "end": 439.96,
+    "text": " Oh, right."
+  },
+  {
+    "index": 186,
+    "start": 439.96,
+    "end": 444.84000000000003,
+    "text": " Oh, while I have you, Urban Eye will wondering if your elephant prefers mint or bubble"
+  },
+  {
+    "index": 187,
+    "start": 444.84000000000003,
+    "end": 445.84000000000003,
+    "text": " gum flavoring."
+  },
+  {
+    "index": 188,
+    "start": 445.84000000000003,
+    "end": 446.84000000000003,
+    "text": " Neither."
+  },
+  {
+    "index": 189,
+    "start": 446.84000000000003,
+    "end": 449.52,
+    "text": " Don't you boys think you're taking this a little too literally?"
+  },
+  {
+    "index": 190,
+    "start": 449.52,
+    "end": 450.52,
+    "text": " No, no, we don't."
+  },
+  {
+    "index": 191,
+    "start": 450.52,
+    "end": 452.52,
+    "text": " All right, we'll see ya."
+  },
+  {
+    "index": 192,
+    "start": 452.52,
+    "end": 453.52,
+    "text": " You know that."
+  },
+  {
+    "index": 193,
+    "start": 453.52,
+    "end": 454.52,
+    "text": " Snowing indoors?"
+  },
+  {
+    "index": 194,
+    "start": 454.52,
+    "end": 455.52,
+    "text": " I'll get this be."
+  },
+  {
+    "index": 195,
+    "start": 455.52,
+    "end": 460.76,
+    "text": " Turns out a lot harder than the cartoon solution of Snowco maker's fans."
+  },
+  {
+    "index": 196,
+    "start": 460.76,
+    "end": 462.68,
+    "text": " So I invited out an old friend to help."
+  },
+  {
+    "index": 197,
+    "start": 462.68,
+    "end": 465.68,
+    "text": " Oh, my god."
+  },
+  {
+    "index": 198,
+    "start": 465.68,
+    "end": 467.28,
+    "text": " This is crazy."
+  },
+  {
+    "index": 199,
+    "start": 467.28,
+    "end": 468.28,
+    "text": " This is fletcher."
+  },
+  {
+    "index": 200,
+    "start": 468.28,
+    "end": 471.44,
+    "text": " And if you look familiar to you, that's because five years ago I surprised"
+  },
+  {
+    "index": 201,
+    "start": 471.44,
+    "end": 476.15999999999997,
+    "text": " him with a special birthday party of his own, where he triggered the first ever devils toothpaste"
+  },
+  {
+    "index": 202,
+    "start": 476.15999999999997,
+    "end": 479.47999999999996,
+    "text": " explosion and then broke the world record for the highest elephant."
+  },
+  {
+    "index": 203,
+    "start": 479.48,
+    "end": 480.48,
+    "text": " The best experiment."
+  },
+  {
+    "index": 204,
+    "start": 480.48,
+    "end": 484.96000000000004,
+    "text": " Now, the time fletcher was dealing with a very rare form of brain cancer and since so many"
+  },
+  {
+    "index": 205,
+    "start": 484.96000000000004,
+    "end": 488.04,
+    "text": " of you have asked for an update over the years, here it is."
+  },
+  {
+    "index": 206,
+    "start": 488.04,
+    "end": 493.88,
+    "text": " I'm five years free of any sign of disease and I'm a senior in high school that's going"
+  },
+  {
+    "index": 207,
+    "start": 493.88,
+    "end": 494.88,
+    "text": " to college."
+  },
+  {
+    "index": 208,
+    "start": 494.88,
+    "end": 496.88,
+    "text": " And you are almost as tall as me."
+  },
+  {
+    "index": 209,
+    "start": 496.88,
+    "end": 498.88,
+    "text": " I'm going to say, I'm still taller."
+  },
+  {
+    "index": 210,
+    "start": 498.88,
+    "end": 502.68,
+    "text": " So I explained to him the engineering challenge of creating a non-cart tune indoors."
+  },
+  {
+    "index": 211,
+    "start": 502.68,
+    "end": 503.68,
+    "text": " Snowstorm."
+  },
+  {
+    "index": 212,
+    "start": 503.68,
+    "end": 504.68,
+    "text": " Fletcher was all right."
+  },
+  {
+    "index": 213,
+    "start": 504.68,
+    "end": 505.68,
+    "text": " Let's do it."
+  },
+  {
+    "index": 214,
+    "start": 505.68,
+    "end": 508.0,
+    "text": " Yeah, the problem is I don't know how."
+  },
+  {
+    "index": 215,
+    "start": 508.0,
+    "end": 509.0,
+    "text": " I don't have the..."
+  },
+  {
+    "index": 216,
+    "start": 509.0,
+    "end": 510.0,
+    "text": " Look at him."
+  },
+  {
+    "index": 217,
+    "start": 510.0,
+    "end": 514.0,
+    "text": " With that uninspiring kickoff, we decided to just try some items we had lying around"
+  },
+  {
+    "index": 218,
+    "start": 514.0,
+    "end": 515.0,
+    "text": " crunchlets."
+  },
+  {
+    "index": 219,
+    "start": 515.0,
+    "end": 526.68,
+    "text": " I'm far the last one."
+  },
+  {
+    "index": 220,
+    "start": 526.68,
+    "end": 530.56,
+    "text": " Our first thought was grading styrofoam, but it turns out that's not only dangerous."
+  },
+  {
+    "index": 221,
+    "start": 530.56,
+    "end": 531.56,
+    "text": " Ow!"
+  },
+  {
+    "index": 222,
+    "start": 531.56,
+    "end": 532.56,
+    "text": " Just created my finger."
+  },
+  {
+    "index": 223,
+    "start": 532.56,
+    "end": 536.92,
+    "text": " But the static electricity buildup means it would rather stick to you than the ground."
+  },
+  {
+    "index": 224,
+    "start": 536.92,
+    "end": 540.36,
+    "text": " This up was using that water absorbing callover you find a diapers."
+  },
+  {
+    "index": 225,
+    "start": 540.36,
+    "end": 542.8,
+    "text": " But it turns out it's not very good for making so balls."
+  },
+  {
+    "index": 226,
+    "start": 542.8,
+    "end": 543.8,
+    "text": " It's way too slippery."
+  },
+  {
+    "index": 227,
+    "start": 543.8,
+    "end": 544.8,
+    "text": " And I'm gonna pop that."
+  },
+  {
+    "index": 228,
+    "start": 544.8,
+    "end": 550.04,
+    "text": " The amount of diapers required would be half a metric, but which all left us with only"
+  },
+  {
+    "index": 229,
+    "start": 550.04,
+    "end": 552.04,
+    "text": " one option."
+  },
+  {
+    "index": 230,
+    "start": 552.04,
+    "end": 553.04,
+    "text": " Hold this."
+  },
+  {
+    "index": 231,
+    "start": 553.04,
+    "end": 554.04,
+    "text": " Here we go!"
+  },
+  {
+    "index": 232,
+    "start": 554.04,
+    "end": 559.4799999999999,
+    "text": " I'm being 80,000 pounds of actual ice into a woodchomp."
+  },
+  {
+    "index": 233,
+    "start": 559.4799999999999,
+    "end": 561.8399999999999,
+    "text": " I think it's going to work."
+  },
+  {
+    "index": 234,
+    "start": 561.8399999999999,
+    "end": 563.8399999999999,
+    "text": " What's like came in to check things out?"
+  },
+  {
+    "index": 235,
+    "start": 563.8399999999999,
+    "end": 565.12,
+    "text": " All right, flesh, what do you think?"
+  },
+  {
+    "index": 236,
+    "start": 565.12,
+    "end": 568.84,
+    "text": " It didn't take long for Flight sure to let the power go to his hand."
+  },
+  {
+    "index": 237,
+    "start": 568.84,
+    "end": 572.12,
+    "text": " Mark, you okay?"
+  },
+  {
+    "index": 238,
+    "start": 572.12,
+    "end": 575.12,
+    "text": " Yeah, I'm fine."
+  },
+  {
+    "index": 239,
+    "start": 575.12,
+    "end": 577.12,
+    "text": " But this is good or great."
+  },
+  {
+    "index": 240,
+    "start": 577.12,
+    "end": 581.72,
+    "text": " Now that we had a solution in hand, I need to flex your help on one last finishing touch."
+  },
+  {
+    "index": 241,
+    "start": 581.72,
+    "end": 582.72,
+    "text": " Oh, it was Nathan."
+  },
+  {
+    "index": 242,
+    "start": 582.72,
+    "end": 586.84,
+    "text": " After which you abruptly told me he had to go."
+  },
+  {
+    "index": 243,
+    "start": 586.84,
+    "end": 587.84,
+    "text": " See you later."
+  },
+  {
+    "index": 244,
+    "start": 587.84,
+    "end": 588.84,
+    "text": " What?"
+  },
+  {
+    "index": 245,
+    "start": 588.84,
+    "end": 590.24,
+    "text": " Man, this is gonna take a while."
+  },
+  {
+    "index": 246,
+    "start": 590.24,
+    "end": 592.48,
+    "text": " A lot longer now with one person."
+  },
+  {
+    "index": 247,
+    "start": 593.48,
+    "end": 595.24,
+    "text": " We're back in snow!"
+  },
+  {
+    "index": 248,
+    "start": 595.24,
+    "end": 596.24,
+    "text": " Let's go!"
+  },
+  {
+    "index": 249,
+    "start": 596.24,
+    "end": 599.28,
+    "text": " Four hours and 40 tons of ice later."
+  },
+  {
+    "index": 250,
+    "start": 599.28,
+    "end": 602.64,
+    "text": " All that was left was to nail the surprise."
+  },
+  {
+    "index": 251,
+    "start": 602.64,
+    "end": 605.24,
+    "text": " Eight months of planning and where it comes down to this moment."
+  },
+  {
+    "index": 252,
+    "start": 605.24,
+    "end": 606.08,
+    "text": " There he is."
+  },
+  {
+    "index": 253,
+    "start": 606.08,
+    "end": 608.72,
+    "text": " Oh gosh, my heart's about to beat out of my chest."
+  },
+  {
+    "index": 254,
+    "start": 608.72,
+    "end": 612.12,
+    "text": " We had either parents tell him he was auditioning for a toy commercial, so he wouldn't"
+  },
+  {
+    "index": 255,
+    "start": 612.12,
+    "end": 613.12,
+    "text": " suspect anything."
+  },
+  {
+    "index": 256,
+    "start": 613.12,
+    "end": 617.4,
+    "text": " We laid eyes on a balloon laden indoor roller coaster, resting on two feet of freshly"
+  },
+  {
+    "index": 257,
+    "start": 617.4,
+    "end": 618.4,
+    "text": " packs."
+  },
+  {
+    "index": 258,
+    "start": 618.4,
+    "end": 619.4,
+    "text": " No."
+  },
+  {
+    "index": 259,
+    "start": 619.4,
+    "end": 620.4,
+    "text": " That's cold."
+  },
+  {
+    "index": 260,
+    "start": 620.4,
+    "end": 622.8,
+    "text": " Because he's been was catching on quick."
+  },
+  {
+    "index": 261,
+    "start": 622.8,
+    "end": 624.4399999999999,
+    "text": " Why is there a crunch laden?"
+  },
+  {
+    "index": 262,
+    "start": 624.4399999999999,
+    "end": 625.4399999999999,
+    "text": " Nathan."
+  },
+  {
+    "index": 263,
+    "start": 625.4399999999999,
+    "end": 627.4399999999999,
+    "text": " What's going on, pal?"
+  },
+  {
+    "index": 264,
+    "start": 627.4399999999999,
+    "end": 628.4399999999999,
+    "text": " No."
+  },
+  {
+    "index": 265,
+    "start": 628.4399999999999,
+    "end": 629.4399999999999,
+    "text": " No."
+  },
+  {
+    "index": 266,
+    "start": 629.4399999999999,
+    "end": 630.4399999999999,
+    "text": " No."
+  },
+  {
+    "index": 267,
+    "start": 630.4399999999999,
+    "end": 632.4399999999999,
+    "text": " I thought you might need a coat."
+  },
+  {
+    "index": 268,
+    "start": 632.4399999999999,
+    "end": 634.4399999999999,
+    "text": " Wait, I'm so confused."
+  },
+  {
+    "index": 269,
+    "start": 634.4399999999999,
+    "end": 635.4399999999999,
+    "text": " What is your favorite cartoon?"
+  },
+  {
+    "index": 270,
+    "start": 635.4399999999999,
+    "end": 636.72,
+    "text": " Finiessen firm, probably."
+  },
+  {
+    "index": 271,
+    "start": 636.72,
+    "end": 639.4399999999999,
+    "text": " Have you seen the episode where the make the rocket powered swing?"
+  },
+  {
+    "index": 272,
+    "start": 639.4399999999999,
+    "end": 640.4399999999999,
+    "text": " Yeah."
+  },
+  {
+    "index": 273,
+    "start": 640.4399999999999,
+    "end": 642.72,
+    "text": " Have you seen the episode where they send the roller coaster to space?"
+  },
+  {
+    "index": 274,
+    "start": 642.72,
+    "end": 643.72,
+    "text": " Yeah."
+  },
+  {
+    "index": 275,
+    "start": 643.72,
+    "end": 646.04,
+    "text": " Have you seen the episode Ethan called Swinter?"
+  },
+  {
+    "index": 276,
+    "start": 646.04,
+    "end": 647.88,
+    "text": " Where they turned inside into winter?"
+  },
+  {
+    "index": 277,
+    "start": 647.88,
+    "end": 648.88,
+    "text": " Yeah."
+  },
+  {
+    "index": 278,
+    "start": 648.88,
+    "end": 650.1999999999999,
+    "text": " This is Finiessen firm in real life."
+  },
+  {
+    "index": 279,
+    "start": 650.2,
+    "end": 652.2,
+    "text": " I'm throwing you a birthday party today."
+  },
+  {
+    "index": 280,
+    "start": 652.2,
+    "end": 653.2,
+    "text": " What?"
+  },
+  {
+    "index": 281,
+    "start": 653.2,
+    "end": 654.2,
+    "text": " No."
+  },
+  {
+    "index": 282,
+    "start": 654.2,
+    "end": 655.2,
+    "text": " Uh-huh."
+  },
+  {
+    "index": 283,
+    "start": 655.2,
+    "end": 658.2,
+    "text": " You know what a banger party needs, Ethan?"
+  },
+  {
+    "index": 284,
+    "start": 658.2,
+    "end": 659.2,
+    "text": " A birthday cake?"
+  },
+  {
+    "index": 285,
+    "start": 659.2,
+    "end": 660.2,
+    "text": " It doesn't need a cake."
+  },
+  {
+    "index": 286,
+    "start": 660.2,
+    "end": 661.2,
+    "text": " Let's work on a cake."
+  },
+  {
+    "index": 287,
+    "start": 661.2,
+    "end": 663.2,
+    "text": " You know what it also needs, though."
+  },
+  {
+    "index": 288,
+    "start": 663.2,
+    "end": 664.2,
+    "text": " Feel like we should have more people here."
+  },
+  {
+    "index": 289,
+    "start": 664.2,
+    "end": 666.2,
+    "text": " You have friends you'd want to invite?"
+  },
+  {
+    "index": 290,
+    "start": 666.2,
+    "end": 667.2,
+    "text": " Yeah."
+  },
+  {
+    "index": 291,
+    "start": 667.2,
+    "end": 669.2,
+    "text": " And that was the cue to send in."
+  },
+  {
+    "index": 292,
+    "start": 669.2,
+    "end": 671.2,
+    "text": " All of Ethan's best friends."
+  },
+  {
+    "index": 293,
+    "start": 671.2,
+    "end": 674.2,
+    "text": " And also his loudest friends."
+  },
+  {
+    "index": 294,
+    "start": 674.2,
+    "end": 679.2,
+    "text": " Ethan is a little sister, which meant that he had an important decision to make."
+  },
+  {
+    "index": 295,
+    "start": 679.2,
+    "end": 681.2,
+    "text": " Ethan is it okay if they all hang out with us?"
+  },
+  {
+    "index": 296,
+    "start": 681.2,
+    "end": 683.2,
+    "text": " Ethan you better say yes."
+  },
+  {
+    "index": 297,
+    "start": 683.2,
+    "end": 686.2,
+    "text": " Fine, but I have something to say."
+  },
+  {
+    "index": 298,
+    "start": 686.2,
+    "end": 688.2,
+    "text": " Okay, that was from you."
+  },
+  {
+    "index": 299,
+    "start": 688.2,
+    "end": 689.2,
+    "text": " Yeah."
+  },
+  {
+    "index": 300,
+    "start": 689.2,
+    "end": 690.2,
+    "text": " What do you guys say?"
+  },
+  {
+    "index": 301,
+    "start": 690.2,
+    "end": 691.2,
+    "text": " We started the rocket swing."
+  },
+  {
+    "index": 302,
+    "start": 691.2,
+    "end": 692.2,
+    "text": " Yeah."
+  },
+  {
+    "index": 303,
+    "start": 692.2,
+    "end": 696.2,
+    "text": " Before we kick off the party, I realize you're probably looking for a good way to spend"
+  },
+  {
+    "index": 304,
+    "start": 696.2,
+    "end": 698.2,
+    "text": " Your 104 days of summer vacation."
+  },
+  {
+    "index": 305,
+    "start": 698.2,
+    "end": 702.2,
+    "text": " We'll look no further because it's here and it's called Camp Crunch Labs."
+  },
+  {
+    "index": 306,
+    "start": 702.2,
+    "end": 706.2,
+    "text": " Camp Crunch Labs is your key to fighting that summer brain tree."
+  },
+  {
+    "index": 307,
+    "start": 707.2,
+    "end": 714.2,
+    "text": " With an eight week virtual space theme summer camp that hops to each of the planets in our solar system."
+  },
+  {
+    "index": 308,
+    "start": 714.2,
+    "end": 719.2,
+    "text": " Featuring weekly videos with mega experiments that I do."
+  },
+  {
+    "index": 309,
+    "start": 719.2,
+    "end": 724.2,
+    "text": " And super challenges that you and the best of these weekly challenge submissions"
+  },
+  {
+    "index": 310,
+    "start": 724.2,
+    "end": 727.2,
+    "text": " earns one of these bad boys to platinum ticket."
+  },
+  {
+    "index": 311,
+    "start": 727.2,
+    "end": 732.2,
+    "text": " Giving you the chance to join me on my favorite planet for the biggest mega experiment of them all"
+  },
+  {
+    "index": 312,
+    "start": 732.2,
+    "end": 734.2,
+    "text": " in the final episode of a summer."
+  },
+  {
+    "index": 313,
+    "start": 735.2,
+    "end": 739.2,
+    "text": " I'll tell you that usually the Crunch Labs bill boxes where they super fun toy together"
+  },
+  {
+    "index": 314,
+    "start": 739.2,
+    "end": 742.2,
+    "text": " learning all the juicy physics how they work comes once a month."
+  },
+  {
+    "index": 315,
+    "start": 742.2,
+    "end": 747.2,
+    "text": " But to coincide with space camp Crunch Labs weekly challenges and videos all summer long"
+  },
+  {
+    "index": 316,
+    "start": 747.2,
+    "end": 750.2,
+    "text": " We'll ship them to you every week."
+  },
+  {
+    "index": 317,
+    "start": 750.2,
+    "end": 751.2,
+    "text": " Let's go."
+  },
+  {
+    "index": 318,
+    "start": 751.2,
+    "end": 755.2,
+    "text": " So if you want an eight week summer camp where you could travel the cosmos while learning to"
+  },
+  {
+    "index": 319,
+    "start": 755.2,
+    "end": 756.2,
+    "text": " think like an engineer."
+  },
+  {
+    "index": 320,
+    "start": 756.2,
+    "end": 761.2,
+    "text": " With an absolute zero percent chance of bug bites of poison ivy."
+  },
+  {
+    "index": 321,
+    "start": 761.2,
+    "end": 765.2,
+    "text": " And the camp Crunch Labs stock comers are one of the limited spots and I'll see you in camp."
+  },
+  {
+    "index": 322,
+    "start": 765.2,
+    "end": 769.2,
+    "text": " Back at the party it was time to see if I'd actually accomplished turning three finnies and"
+  },
+  {
+    "index": 323,
+    "start": 769.2,
+    "end": 771.2,
+    "text": " fur of cartoon marbles into real life."
+  },
+  {
+    "index": 324,
+    "start": 771.2,
+    "end": 773.2,
+    "text": " Starting first with the rockets."
+  },
+  {
+    "index": 325,
+    "start": 773.2,
+    "end": 774.2,
+    "text": " You guys want to see it."
+  },
+  {
+    "index": 326,
+    "start": 774.2,
+    "end": 782.2,
+    "text": " You might notice we swapped the rockets out for a pair of 24 volt electric turbines."
+  },
+  {
+    "index": 327,
+    "start": 782.2,
+    "end": 786.2,
+    "text": " Miss provided two advantages first."
+  },
+  {
+    "index": 328,
+    "start": 786.2,
+    "end": 789.2,
+    "text": " We learned from testing that big rockets."
+  },
+  {
+    "index": 329,
+    "start": 790.2,
+    "end": 792.2,
+    "text": " We gave a lot of smoke."
+  },
+  {
+    "index": 330,
+    "start": 792.2,
+    "end": 793.2,
+    "text": " But what's your breath?"
+  },
+  {
+    "index": 331,
+    "start": 793.2,
+    "end": 796.2,
+    "text": " Which is not ideal for your lungs or your smoke alarm."
+  },
+  {
+    "index": 332,
+    "start": 796.2,
+    "end": 800.2,
+    "text": " And second if you post the turbines at the exact natural frequency of the swing."
+  },
+  {
+    "index": 333,
+    "start": 800.2,
+    "end": 807.2,
+    "text": " Which is exactly what you naturally do when you pump your legs on a swing by the way."
+  },
+  {
+    "index": 334,
+    "start": 807.2,
+    "end": 810.2,
+    "text": " Then you can add more and more energy to the swing."
+  },
+  {
+    "index": 335,
+    "start": 810.2,
+    "end": 812.2,
+    "text": " Tell us enough."
+  },
+  {
+    "index": 336,
+    "start": 812.2,
+    "end": 813.2,
+    "text": " Mark Mark Mark Mark Mark."
+  },
+  {
+    "index": 337,
+    "start": 813.2,
+    "end": 814.2,
+    "text": " Do clear the bar."
+  },
+  {
+    "index": 338,
+    "start": 814.2,
+    "end": 815.2,
+    "text": " Yeah!"
+  },
+  {
+    "index": 339,
+    "start": 815.2,
+    "end": 816.2,
+    "text": " Yeah!"
+  },
+  {
+    "index": 340,
+    "start": 816.2,
+    "end": 817.2,
+    "text": " Yeah!"
+  },
+  {
+    "index": 341,
+    "start": 817.2,
+    "end": 818.2,
+    "text": " Yeah!"
+  },
+  {
+    "index": 342,
+    "start": 818.2,
+    "end": 823.2,
+    "text": " And even with their modifications, he thought suddenly occurred."
+  },
+  {
+    "index": 343,
+    "start": 823.2,
+    "end": 826.2,
+    "text": " That's a really dangerous."
+  },
+  {
+    "index": 344,
+    "start": 826.2,
+    "end": 828.2,
+    "text": " My protest fell on deaf ears."
+  },
+  {
+    "index": 345,
+    "start": 828.2,
+    "end": 830.2,
+    "text": " Safety is for losers."
+  },
+  {
+    "index": 346,
+    "start": 830.2,
+    "end": 831.2,
+    "text": " Yeah!"
+  },
+  {
+    "index": 347,
+    "start": 831.2,
+    "end": 833.2,
+    "text": " See you as you with such a tough guy all of a sudden."
+  },
+  {
+    "index": 348,
+    "start": 833.2,
+    "end": 835.2,
+    "text": " I decided to use Ethan to get a baseline."
+  },
+  {
+    "index": 349,
+    "start": 835.2,
+    "end": 836.2,
+    "text": " Here we go."
+  },
+  {
+    "index": 350,
+    "start": 836.2,
+    "end": 837.2,
+    "text": " There we go."
+  },
+  {
+    "index": 351,
+    "start": 837.2,
+    "end": 842.2,
+    "text": " Just seeing how high you could swing if you just had to rely on your boring old mussels."
+  },
+  {
+    "index": 352,
+    "start": 842.2,
+    "end": 843.2,
+    "text": " Wow!"
+  },
+  {
+    "index": 353,
+    "start": 843.2,
+    "end": 846.2,
+    "text": " And the answer was pretty much horizontal."
+  },
+  {
+    "index": 354,
+    "start": 846.2,
+    "end": 848.2,
+    "text": " Ethan, you're kind of going high."
+  },
+  {
+    "index": 355,
+    "start": 848.2,
+    "end": 849.2,
+    "text": " I shmied."
+  },
+  {
+    "index": 356,
+    "start": 849.2,
+    "end": 854.2,
+    "text": " Now, it was my turn to see what would have been if you added 14,000 RPMs of propulsion."
+  },
+  {
+    "index": 357,
+    "start": 854.2,
+    "end": 857.2,
+    "text": " Okay, are you guys ready?"
+  },
+  {
+    "index": 358,
+    "start": 857.2,
+    "end": 862.2,
+    "text": " Of course, the number one rule when demoing a potentially disastrous engineering bill that"
+  },
+  {
+    "index": 359,
+    "start": 862.2,
+    "end": 865.2,
+    "text": " a kid's birthday is that you definitely want to do it before you-"
+  },
+  {
+    "index": 360,
+    "start": 865.2,
+    "end": 867.2,
+    "text": " I've never done this before."
+  },
+  {
+    "index": 361,
+    "start": 867.2,
+    "end": 869.2,
+    "text": " What do you mean you've never done this before?"
+  },
+  {
+    "index": 362,
+    "start": 869.2,
+    "end": 870.2,
+    "text": " How has he been tested?"
+  },
+  {
+    "index": 363,
+    "start": 870.2,
+    "end": 871.2,
+    "text": " No!"
+  },
+  {
+    "index": 364,
+    "start": 871.2,
+    "end": 872.2,
+    "text": " No!"
+  },
+  {
+    "index": 365,
+    "start": 872.2,
+    "end": 873.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 366,
+    "start": 873.2,
+    "end": 874.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 367,
+    "start": 874.2,
+    "end": 877.2,
+    "text": " Oh, my God!"
+  },
+  {
+    "index": 368,
+    "start": 877.2,
+    "end": 879.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 369,
+    "start": 879.2,
+    "end": 881.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 370,
+    "start": 881.2,
+    "end": 882.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 371,
+    "start": 882.2,
+    "end": 883.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 372,
+    "start": 883.2,
+    "end": 884.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 373,
+    "start": 884.2,
+    "end": 885.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 374,
+    "start": 885.2,
+    "end": 886.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 375,
+    "start": 886.2,
+    "end": 891.2,
+    "text": " And the only feeling better than pulling off a bill like this is how you feel when you finally"
+  },
+  {
+    "index": 376,
+    "start": 891.2,
+    "end": 892.2,
+    "text": " get off the bill."
+  },
+  {
+    "index": 377,
+    "start": 892.2,
+    "end": 893.2,
+    "text": " Oh my God!"
+  },
+  {
+    "index": 378,
+    "start": 893.2,
+    "end": 894.2,
+    "text": " That looks so nauseating."
+  },
+  {
+    "index": 379,
+    "start": 894.2,
+    "end": 895.2,
+    "text": " Ethan, you're next!"
+  },
+  {
+    "index": 380,
+    "start": 895.2,
+    "end": 896.2,
+    "text": " Yeah!"
+  },
+  {
+    "index": 381,
+    "start": 896.2,
+    "end": 900.2,
+    "text": " Before we got to the big roller coaster finale, I decided we should take a little"
+  },
+  {
+    "index": 382,
+    "start": 900.2,
+    "end": 903.2,
+    "text": " swim to break, starting with some snow cones."
+  },
+  {
+    "index": 383,
+    "start": 903.2,
+    "end": 906.2,
+    "text": " Who ready for a snowball fight?"
+  },
+  {
+    "index": 384,
+    "start": 906.2,
+    "end": 909.2,
+    "text": " And some snowballs."
+  },
+  {
+    "index": 385,
+    "start": 909.2,
+    "end": 913.2,
+    "text": " However, unfortunately for them, certain habits-"
+  },
+  {
+    "index": 386,
+    "start": 913.2,
+    "end": 916.2,
+    "text": " Yeah!"
+  },
+  {
+    "index": 387,
+    "start": 916.2,
+    "end": 917.2,
+    "text": " Or hard to kick."
+  },
+  {
+    "index": 388,
+    "start": 917.2,
+    "end": 918.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 389,
+    "start": 918.2,
+    "end": 919.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 390,
+    "start": 919.2,
+    "end": 920.2,
+    "text": " Headshot!"
+  },
+  {
+    "index": 391,
+    "start": 920.2,
+    "end": 921.2,
+    "text": " Who's next?"
+  },
+  {
+    "index": 392,
+    "start": 921.2,
+    "end": 922.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 393,
+    "start": 922.2,
+    "end": 923.2,
+    "text": " That was awesome!"
+  },
+  {
+    "index": 394,
+    "start": 923.2,
+    "end": 924.2,
+    "text": " All right!"
+  },
+  {
+    "index": 395,
+    "start": 924.2,
+    "end": 925.2,
+    "text": " Yeah!"
+  },
+  {
+    "index": 396,
+    "start": 925.2,
+    "end": 927.2,
+    "text": " And then suddenly, and very undeservedly, I might add."
+  },
+  {
+    "index": 397,
+    "start": 927.2,
+    "end": 928.2,
+    "text": " I wasn't over my head."
+  },
+  {
+    "index": 398,
+    "start": 928.2,
+    "end": 930.2,
+    "text": " Why is everyone aiming at me?"
+  },
+  {
+    "index": 399,
+    "start": 930.2,
+    "end": 933.2,
+    "text": " Okay, true?"
+  },
+  {
+    "index": 400,
+    "start": 933.2,
+    "end": 936.2,
+    "text": " Who wants to go sledding?"
+  },
+  {
+    "index": 401,
+    "start": 936.2,
+    "end": 937.2,
+    "text": " Yeah!"
+  },
+  {
+    "index": 402,
+    "start": 937.2,
+    "end": 938.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 403,
+    "start": 938.2,
+    "end": 939.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 404,
+    "start": 939.2,
+    "end": 940.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 405,
+    "start": 940.2,
+    "end": 941.2,
+    "text": " Woo!"
+  },
+  {
+    "index": 406,
+    "start": 941.2,
+    "end": 942.2,
+    "text": " Don't hide me!"
+  },
+  {
+    "index": 407,
+    "start": 942.2,
+    "end": 943.2,
+    "text": " I thought that was-"
+  },
+  {
+    "index": 408,
+    "start": 943.2,
+    "end": 945.2,
+    "text": " Ethan was really encouraging with his friends."
+  },
+  {
+    "index": 409,
+    "start": 945.2,
+    "end": 946.2,
+    "text": " Soy!"
+  },
+  {
+    "index": 410,
+    "start": 946.2,
+    "end": 948.2,
+    "text": " That is when he was in the tackle."
+  },
+  {
+    "index": 411,
+    "start": 948.2,
+    "end": 949.2,
+    "text": " Oh yeah!"
+  },
+  {
+    "index": 412,
+    "start": 949.2,
+    "end": 950.2,
+    "text": " Go back!"
+  },
+  {
+    "index": 413,
+    "start": 950.2,
+    "end": 953.2,
+    "text": " After we had our filled with snowballs and sledding,"
+  },
+  {
+    "index": 414,
+    "start": 954.2,
+    "end": 956.2,
+    "text": " it was time to test out the final and most audacious,"
+  },
+  {
+    "index": 415,
+    "start": 956.2,
+    "end": 958.2,
+    "text": " Phoenies and Furbin real life engineering build."
+  },
+  {
+    "index": 416,
+    "start": 958.2,
+    "end": 962.2,
+    "text": " Now up the stakes, Ethan reminded me what their coaster was actually like in the show."
+  },
+  {
+    "index": 417,
+    "start": 962.2,
+    "end": 965.2,
+    "text": " There was like snagged and like a car wash and a bunch of stuff."
+  },
+  {
+    "index": 418,
+    "start": 965.2,
+    "end": 967.2,
+    "text": " So if this is really Phoenies Furbin-"
+  },
+  {
+    "index": 419,
+    "start": 967.2,
+    "end": 968.2,
+    "text": " It would be a triangle."
+  },
+  {
+    "index": 420,
+    "start": 968.2,
+    "end": 969.2,
+    "text": " Oh yeah!"
+  },
+  {
+    "index": 421,
+    "start": 969.2,
+    "end": 971.2,
+    "text": " If this was Phoenies Furbin, it would be a triangle fair fair."
+  },
+  {
+    "index": 422,
+    "start": 971.2,
+    "end": 973.2,
+    "text": " But I wasn't going to make Ethan ride solo."
+  },
+  {
+    "index": 423,
+    "start": 973.2,
+    "end": 975.2,
+    "text": " So I had no choice but to buckle up."
+  },
+  {
+    "index": 424,
+    "start": 975.2,
+    "end": 977.2,
+    "text": " I've never met Phoenies and Furbin."
+  },
+  {
+    "index": 425,
+    "start": 977.2,
+    "end": 978.2,
+    "text": " Oh yeah!"
+  },
+  {
+    "index": 426,
+    "start": 978.2,
+    "end": 979.2,
+    "text": " This was Phoenies Furbin."
+  },
+  {
+    "index": 427,
+    "start": 979.2,
+    "end": 981.2,
+    "text": " So I had no choice but to buckle up."
+  },
+  {
+    "index": 428,
+    "start": 981.2,
+    "end": 984.2,
+    "text": " I've never met Ethan or you know this."
+  },
+  {
+    "index": 429,
+    "start": 984.2,
+    "end": 985.2,
+    "text": " Three!"
+  },
+  {
+    "index": 430,
+    "start": 985.2,
+    "end": 986.2,
+    "text": " One! Two!"
+  },
+  {
+    "index": 431,
+    "start": 986.2,
+    "end": 987.2,
+    "text": " One!"
+  },
+  {
+    "index": 432,
+    "start": 987.2,
+    "end": 988.2,
+    "text": " Go!"
+  },
+  {
+    "index": 433,
+    "start": 988.2,
+    "end": 989.2,
+    "text": " No!"
+  },
+  {
+    "index": 434,
+    "start": 989.2,
+    "end": 990.2,
+    "text": " No!"
+  },
+  {
+    "index": 435,
+    "start": 990.2,
+    "end": 991.2,
+    "text": " No!"
+  },
+  {
+    "index": 436,
+    "start": 991.2,
+    "end": 992.2,
+    "text": " No!"
+  },
+  {
+    "index": 437,
+    "start": 992.2,
+    "end": 993.2,
+    "text": " No!"
+  },
+  {
+    "index": 438,
+    "start": 993.2,
+    "end": 994.2,
+    "text": " No!"
+  },
+  {
+    "index": 439,
+    "start": 994.2,
+    "end": 995.2,
+    "text": " No!"
+  },
+  {
+    "index": 440,
+    "start": 995.2,
+    "end": 996.2,
+    "text": " No!"
+  },
+  {
+    "index": 441,
+    "start": 996.2,
+    "end": 997.2,
+    "text": " No!"
+  },
+  {
+    "index": 442,
+    "start": 997.2,
+    "end": 998.2,
+    "text": " No!"
+  },
+  {
+    "index": 443,
+    "start": 998.2,
+    "end": 999.2,
+    "text": " No!"
+  },
+  {
+    "index": 444,
+    "start": 999.2,
+    "end": 1000.2,
+    "text": " No!"
+  },
+  {
+    "index": 445,
+    "start": 1000.2,
+    "end": 1001.2,
+    "text": " No!"
+  },
+  {
+    "index": 446,
+    "start": 1001.2,
+    "end": 1003.2,
+    "text": " And while the stakes were fake,"
+  },
+  {
+    "index": 447,
+    "start": 1003.2,
+    "end": 1005.2,
+    "text": " the mud was real."
+  },
+  {
+    "index": 448,
+    "start": 1005.2,
+    "end": 1006.2,
+    "text": " No!"
+  },
+  {
+    "index": 449,
+    "start": 1006.2,
+    "end": 1007.2,
+    "text": " No!"
+  },
+  {
+    "index": 450,
+    "start": 1007.2,
+    "end": 1008.2,
+    "text": " No!"
+  },
+  {
+    "index": 451,
+    "start": 1008.2,
+    "end": 1009.2,
+    "text": " No!"
+  },
+  {
+    "index": 452,
+    "start": 1010.2,
+    "end": 1011.2,
+    "text": " That's one of the stuff of course."
+  },
+  {
+    "index": 453,
+    "start": 1011.2,
+    "end": 1014.2,
+    "text": " So Mr. Rizzoff in Science Bob's 20 mile an hour car was."
+  },
+  {
+    "index": 454,
+    "start": 1014.2,
+    "end": 1015.2,
+    "text": " No!"
+  },
+  {
+    "index": 455,
+    "start": 1015.2,
+    "end": 1016.2,
+    "text": " No!"
+  },
+  {
+    "index": 456,
+    "start": 1016.2,
+    "end": 1017.2,
+    "text": " No!"
+  },
+  {
+    "index": 457,
+    "start": 1017.2,
+    "end": 1018.2,
+    "text": " No!"
+  },
+  {
+    "index": 458,
+    "start": 1018.2,
+    "end": 1019.2,
+    "text": " No!"
+  },
+  {
+    "index": 459,
+    "start": 1019.2,
+    "end": 1020.2,
+    "text": " No!"
+  },
+  {
+    "index": 460,
+    "start": 1020.2,
+    "end": 1021.2,
+    "text": " No!"
+  },
+  {
+    "index": 461,
+    "start": 1021.2,
+    "end": 1025.2,
+    "text": " For pulling to a halt in front of a massive blow dryer so we could try off."
+  },
+  {
+    "index": 462,
+    "start": 1025.2,
+    "end": 1026.2,
+    "text": " Nice and clean."
+  },
+  {
+    "index": 463,
+    "start": 1026.2,
+    "end": 1027.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 464,
+    "start": 1027.2,
+    "end": 1028.2,
+    "text": " Oh!"
+  },
+  {
+    "index": 465,
+    "start": 1028.2,
+    "end": 1030.2,
+    "text": " You won't have to shower tonight, at least."
+  },
+  {
+    "index": 466,
+    "start": 1030.2,
+    "end": 1032.2,
+    "text": " I doubt that, but um."
+  },
+  {
+    "index": 467,
+    "start": 1032.2,
+    "end": 1035.2,
+    "text": " So now that all three of our mentions were tested and Ethan approved."
+  },
+  {
+    "index": 468,
+    "start": 1035.2,
+    "end": 1036.2,
+    "text": " Thank you."
+  },
+  {
+    "index": 469,
+    "start": 1036.2,
+    "end": 1041.2,
+    "text": " It was time to give Ethan a well deserved 15 second party by post."
+  },
+  {
+    "index": 470,
+    "start": 1041.2,
+    "end": 1045.2,
+    "text": " Music"
+  },
+  {
+    "index": 471,
+    "start": 1045.2,
+    "end": 1053.2,
+    "text": " Music"
+  },
+  {
+    "index": 472,
+    "start": 1053.2,
+    "end": 1055.2,
+    "text": " Ethan, now I'll have a confession."
+  },
+  {
+    "index": 473,
+    "start": 1055.2,
+    "end": 1058.2,
+    "text": " I didn't pull this off on my own. I had a little help."
+  },
+  {
+    "index": 474,
+    "start": 1058.2,
+    "end": 1059.2,
+    "text": " What do you mean?"
+  },
+  {
+    "index": 475,
+    "start": 1059.2,
+    "end": 1061.2,
+    "text": " Hey, friendies!"
+  },
+  {
+    "index": 476,
+    "start": 1061.2,
+    "end": 1063.2,
+    "text": " Look what we did!"
+  },
+  {
+    "index": 477,
+    "start": 1064.2,
+    "end": 1068.2,
+    "text": " Well, you know for not relying on Cartoon physics, that looks so fun."
+  },
+  {
+    "index": 478,
+    "start": 1068.2,
+    "end": 1070.2,
+    "text": " Unhappy at all worked out for you."
+  },
+  {
+    "index": 479,
+    "start": 1070.2,
+    "end": 1072.2,
+    "text": " Now for the elephant toothpaste experiment."
+  },
+  {
+    "index": 480,
+    "start": 1072.2,
+    "end": 1075.2,
+    "text": " Well make sure firm isn't too close."
+  },
+  {
+    "index": 481,
+    "start": 1075.2,
+    "end": 1077.2,
+    "text": " Ha ha, oops."
+  },
+  {
+    "index": 482,
+    "start": 1077.2,
+    "end": 1080.2,
+    "text": " Wow, it looks like you got a lot of cleanup on your hand."
+  },
+  {
+    "index": 483,
+    "start": 1080.2,
+    "end": 1082.2,
+    "text": " You want us to help?"
+  },
+  {
+    "index": 484,
+    "start": 1082.2,
+    "end": 1085.2,
+    "text": " Actually our cleanup usually takes care of itself."
+  },
+  {
+    "index": 485,
+    "start": 1089.2,
+    "end": 1090.2,
+    "text": " See?"
+  },
+  {
+    "index": 486,
+    "start": 1090.2,
+    "end": 1091.2,
+    "text": " No must, no fuss."
+  },
+  {
+    "index": 487,
+    "start": 1091.2,
+    "end": 1092.2,
+    "text": " Bye, Mark."
+  },
+  {
+    "index": 488,
+    "start": 1093.2,
+    "end": 1096.2,
+    "text": " Sorry, Ethan, but that trick will not work in real life."
+  },
+  {
+    "index": 489,
+    "start": 1096.2,
+    "end": 1097.2,
+    "text": " Am I cleaning up?"
+  },
+  {
+    "index": 490,
+    "start": 1097.2,
+    "end": 1099.2,
+    "text": " A grab a shovel, let's clean this up."
+  },
+  {
+    "index": 491,
+    "start": 1099.2,
+    "end": 1100.2,
+    "text": " Oh my god."
+  },
+  {
+    "index": 492,
+    "start": 1100.2,
+    "end": 1101.2,
+    "text": " Woo."
+  },
+  {
+    "index": 493,
+    "start": 1101.2,
+    "end": 1103.2,
+    "text": " Ha ha ha."
+  },
+  {
+    "index": 494,
+    "start": 1103.2,
+    "end": 1106.2,
+    "text": " Now that Ethan's been given the best birthday ever,"
+  },
+  {
+    "index": 495,
+    "start": 1106.2,
+    "end": 1108.2,
+    "text": " why not join us for the best summer-end."
+  },
+  {
+    "index": 496,
+    "start": 1108.2,
+    "end": 1110.2,
+    "text": " Space Camp Crunchy-Lat."
+  },
+  {
+    "index": 497,
+    "start": 1110.2,
+    "end": 1114.2,
+    "text": " Eight-week virtual space theme summer camp designed to help fight that summer"
+  },
+  {
+    "index": 498,
+    "start": 1114.2,
+    "end": 1115.2,
+    "text": " brain drainage."
+  },
+  {
+    "index": 499,
+    "start": 1115.2,
+    "end": 1118.2,
+    "text": " Since you got canned crunch locks off top of parents and a sort of a little bit of"
+  },
+  {
+    "index": 500,
+    "start": 1118.2,
+    "end": 1120.2,
+    "text": " spots, it'll snow with camp."
+  }
+]
