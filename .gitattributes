@@ -1,0 +1,5 @@
+*.tsv filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/tokyi/PycharmProjects/PythonProject/whisper/models--facebook--nllb-200-distilled-600M/* filter=lfs diff=lfs merge=lfs -text
+*.webm filter=lfs diff=lfs merge=lfs -text
