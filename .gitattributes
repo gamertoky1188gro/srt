@@ -1,5 +1,8 @@
 *.tsv filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
-C:/Users/tokyi/PycharmProjects/PythonProject/whisper/models--facebook--nllb-200-distilled-600M/* filter=lfs diff=lfs merge=lfs -text
+whisper/models--facebook--nllb-200-distilled-600M/* filter=lfs diff=lfs merge=lfs -text
 *.webm filter=lfs diff=lfs merge=lfs -text
+whisper/models--facebook--nllb-200-distilled-600M/blobs/* filter=lfs diff=lfs merge=lfs -text
+whisper/models--facebook--nllb-200-distilled-600M/blobs/c266c2cfd19758b6d09c1fc31ecdf1e485509035f6b51dfe84f1ada83eefcc42 filter=lfs diff=lfs merge=lfs -text
+whisper/models--facebook--nllb-200-distilled-600M/blobs/643bac822da0ca2be0e4a8a271ebf820cf22175129235eeaea1961ae424670e8 filter=lfs diff=lfs merge=lfs -text

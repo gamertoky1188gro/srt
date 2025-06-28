@@ -1,24 +1,3 @@
-{
-  "additional_special_tokens": null,
-  "bos_token": "<s>",
-  "cls_token": "<s>",
-  "eos_token": "</s>",
-  "mask_token": {
-    "__type": "AddedToken",
-    "content": "<mask>",
-    "lstrip": true,
-    "normalized": true,
-    "rstrip": false,
-    "single_word": false
-  },
-  "model_max_length": 1024,
-  "name_or_path": "facebook/nllb-200-distilled-600M",
-  "pad_token": "<pad>",
-  "sep_token": "</s>",
-  "sp_model_kwargs": {},
-  "special_tokens_map_file": null,
-  "src_lang": null,
-  "tgt_lang": null,
-  "tokenizer_class": "NllbTokenizer",
-  "unk_token": "<unk>"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1aa8c3697d3e35674f97b5b7e9c99d22b010f528e80140257d97316be90d044
+size 564

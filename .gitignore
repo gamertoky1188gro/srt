@@ -1,12 +1,25 @@
 __pycache__/
 *.pyc
 .venv/
+
+# Ignore everything in whisper
 whisper/*
+whisper/models--facebook--nllb-200-distilled-600M/blobs/c266c2cfd19758b6d09c1fc31ecdf1e485509035f6b51dfe84f1ada83eefcc42
+whisper/models--facebook--nllb-200-distilled-600M/blobs/643bac822da0ca2be0e4a8a271ebf820cf22175129235eeaea1961ae424670e8
+
+# Un-ignore specific things
 !whisper/.locks
 !whisper/.locks/**
-!whisper/models--facebook--nllb-200-distilled-600M/.no_exist/**
 !whisper/tiny.pt
 !whisper/medium.pt
 !whisper/large-v3-turbo.pt
+
+# Un-ignore the base folder first
+!whisper/models--facebook--nllb-200-distilled-600M/
+!whisper/models--facebook--nllb-200-distilled-600M/**
+
+# (optional - already included by above)
+!whisper/models--facebook--nllb-200-distilled-600M/refs/
 !whisper/models--facebook--nllb-200-distilled-600M/.no_exist
-!whisper/models--facebook--nllb-200-distilled-600M/refs/**
+!whisper/models--facebook--nllb-200-distilled-600M/snapshots
+!whisper/models--facebook--nllb-200-distilled-600M/snapshots/**
