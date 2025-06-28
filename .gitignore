@@ -4,3 +4,8 @@ __pycache__/
 whisper/*
 !whisper/.locks
 !whisper/.locks/**
+!whisper/models--facebook--nllb-200-distilled-600M/.no_exist/**
+!whisper/tiny.pt
+!whisper/medium.pt
+!whisper/large-v3-turbo.pt
+!whisper/models--facebook--nllb-200-distilled-600M/.no_exist
