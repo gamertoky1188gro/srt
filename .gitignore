@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 .venv/
+whisper/*
+!whisper/.locks
+!whisper/.locks/**
