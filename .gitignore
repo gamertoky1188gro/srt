@@ -9,3 +9,4 @@ whisper/*
 !whisper/medium.pt
 !whisper/large-v3-turbo.pt
 !whisper/models--facebook--nllb-200-distilled-600M/.no_exist
+!whisper/models--facebook--nllb-200-distilled-600M/refs/**
